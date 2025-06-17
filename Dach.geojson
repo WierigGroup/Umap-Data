@@ -1,1 +1,185 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401760 - Hornbach; Neubau BAL, Ludwigsburg - Liebigstraße 8, 71636 Ludwigsburg, Germany",
+        "Adresse": "Liebigstraße 8, 71636 Ludwigsburg, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1523166,
+          48.8896092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103510 - BBV; Dachsanierung BT D, Kerpen - Heisenbergstraße 26-40, 50169 Kerpen, Germany",
+        "Adresse": "Heisenbergstraße 26-40, 50169 Kerpen, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7501831,
+          50.8704291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "102840 - Consent; Dachsanierung FMZ, Bautzen - Niederkainaer Straße 14, 02625 Bautzen, Germany",
+        "Adresse": "Niederkainaer Straße 14, 02625 Bautzen, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4566198,
+          51.1887621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401820 - Roche, Stützeneinbau Kantine, Mannheim - Sandhofer Straße 116, 68305 Mannheim, Germany",
+        "Adresse": "Sandhofer Straße 116, 68305 Mannheim, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4735536,
+          49.5309625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104240 - Deutsche Post AG; Dachsanierung ZSP, Düren - Malterserstraße 49, 52349 Düren, Germany",
+        "Adresse": "Malterserstraße 49, 52349 Düren, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4788,
+          50.8009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104760 - SANHA; Dachsanierung Gebäude 80+92, Essen - Im Teelbruch 80, 45219 Essen, Germany",
+        "Adresse": "Im Teelbruch 80, 45219 Essen, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9399601,
+          51.377635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104320 - Overath; Dachertüchtigung Alte Lohmarer Str., Siegburg - Alte Lohmarer Straße, 53721 Siegburg, Germany",
+        "Adresse": "Alte Lohmarer Straße, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2105197,
+          50.8106796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401950 - Kipp Massa, Dachsanierung Roller Markt, Offenbach - Strahlenbergstraße 81, 63067 Offenbach, Germany",
+        "Adresse": "Strahlenbergstraße 81, 63067 Offenbach, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7344,
+          50.1069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104880 - ALDI BK 1; Neubau ALDI, Freyburg - Friedhofsweg 2, 06632 Freyburg, Germany",
+        "Adresse": "Friedhofsweg 2, 06632 Freyburg, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7725748,
+          51.2201294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401880 - Industria; San. unteres Dach, Darmstadt - Borsigstraße 11, 64291 Darmstadt, Germany",
+        "Adresse": "Borsigstraße 11, 64291 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "#0064A7",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6387234,
+          49.9158314
+        ]
+      }
+    }
+  ]
+}
