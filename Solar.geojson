@@ -6160,6 +6160,1500 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "98600 - Aldi Glückstadt NOR DE004006 - Wiebeke-Kruse-straße 5-7, 25348 Glückstadt, Germany",
+        "Adresse": "Wiebeke-Kruse-straße 5-7, 25348 Glückstadt, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4348891,
+          53.7987609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97810 - Aldi Langenhagen SIE NR DE006002 - Desbrocksriede 2a, 30855 Langenhagen, Germany",
+        "Adresse": "Desbrocksriede 2a, 30855 Langenhagen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6791082,
+          52.4317903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900540 - Aldi Nord Neumünster NOR DE004063 - Haart 224, 24539 Neumünster, Germany",
+        "Adresse": "Haart 224, 24539 Neumünster, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.008932,
+          54.0594717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900470 - Aldi Nord Radevormwald RAD NR DE002053 - Erlenbacherstraße 1, 42477 Radevormwald, Germany",
+        "Adresse": "Erlenbacherstraße 1, 42477 Radevormwald, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3849579,
+          51.1977422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97680 - Postenbörse Stolzenau - Bürgermeister-Heuvemann-Straße, 31592 Stolzenau, Germany",
+        "Adresse": "Bürgermeister-Heuvemann-Straße, 31592 Stolzenau, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0573412,
+          52.5113072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99300 - Aldi Lippstadt SHO DE005035 - Otto-Hahn-straße 17, 59557 Lippstadt, Germany",
+        "Adresse": "Otto-Hahn-straße 17, 59557 Lippstadt, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3306837,
+          51.6569709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97490 - Aldi Castrop-Rauxel Landwehr DAT NR DE032054 - Am Landwehrbach 7, 44575 Castrop-Rauxel, Germany",
+        "Adresse": "Am Landwehrbach 7, 44575 Castrop-Rauxel, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2927463,
+          51.5552464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97660 - Aldi Bad Gandersheim NR MÜN DE010110 (alt SAL DE014002) - Neue Straße 37, 37581 Bad Gandersheim, Germany",
+        "Adresse": "Neue Straße 37, 37581 Bad Gandersheim, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0176881,
+          51.8675863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98560 - Möbel Block GmbH WT 41 - Wiesentalstraße 41, 88074 Meckenbeuren, Germany",
+        "Adresse": "Wiesentalstraße 41, 88074 Meckenbeuren, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5657419,
+          47.6924185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97820 - Speeter ITK 3 Rülzheim - Photovoltaik - Im Speyerer Tal 7-9, 76761 Rülzheim, Germany",
+        "Adresse": "Im Speyerer Tal 7-9, 76761 Rülzheim, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2940374,
+          49.1667746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98000 - Georg Jordan, Siegburg - Industriestraße 20, 53721 Siegburg, Germany",
+        "Adresse": "Industriestraße 20, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1938468,
+          50.8013357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "49999 - Solar Diverse Kleinprojekte - Lindenstraße 76, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 76, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1921061,
+          50.7975969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900280 - Aldi Nord Gelsenkirchen Heistr HER DE001038 - Heistraße 109, 45891 Gelsenkirchen, Germany",
+        "Adresse": "Heistraße 109, 45891 Gelsenkirchen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0750923,
+          51.5635444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900650 - Aldi Nord Dortmund Schulte DAT DE032004 - Schulte-Heuthaus-Straße 52, 44379 Dortmund, Germany",
+        "Adresse": "Schulte-Heuthaus-Straße 52, 44379 Dortmund, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3849595,
+          51.5084033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98510 - Aldi Niederweimar SHO DE005149 (alt MÜN DE010095, LAS DE017074) - Herborner straße 1, 35096 Weimar (Lahn)-Niederweimar, Germany",
+        "Adresse": "Herborner straße 1, 35096 Weimar (Lahn)-Niederweimar, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7385464,
+          50.7616423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97310 - Aldi Sögel LIN DE025028 - Knippers Kohlenhof 3, 49751 Sögel, Germany",
+        "Adresse": "Knippers Kohlenhof 3, 49751 Sögel, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5219703,
+          52.8393789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97180 - Aldi, Pinneberg HOR DE019012 - Rellinger straße 25-27, 25421 Pinneberg, Germany",
+        "Adresse": "Rellinger straße 25-27, 25421 Pinneberg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8160352,
+          53.6468549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950220 - ALDI SÜD Pforzheim RAS-079 - Schwarzwaldstraße 1, 75173 Pforzheim, Germany",
+        "Adresse": "Schwarzwaldstraße 1, 75173 Pforzheim, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6948932,
+          48.8863797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950280 - NewCoffee PVA - Hockenheimer straße169, 68775 Ketsch, Germany",
+        "Adresse": "Hockenheimer straße169, 68775 Ketsch, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5275,
+          49.3552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900520 - Aldi Nord Ennepetal-Milspe RAD NR DE002048 - Milsperstraße 222, 58456 Ennepetal, Germany",
+        "Adresse": "Milsperstraße 222, 58456 Ennepetal, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3567088,
+          51.2984848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900950 - Aldi Nord Friedrichstadt NOR NR DE004065 - Van-Wouwer-Straße 1, 25840 Friedrichstadt, Germany",
+        "Adresse": "Van-Wouwer-Straße 1, 25840 Friedrichstadt, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0735325,
+          54.3782114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99330 - Aldi Rheda-Wiedenbrück SHO DE005057 - Westring 143, 33378 Rheda-Wiedenbrück, Germany",
+        "Adresse": "Westring 143, 33378 Rheda-Wiedenbrück, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2989758,
+          51.8293899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950130 - ALDI SÜD St Katharinen STA-055 - Am Rennenberg 3, 53562 Sankt Katharinen, Germany",
+        "Adresse": "Am Rennenberg 3, 53562 Sankt Katharinen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3311101,
+          50.6034593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98470 - Aldi JAR DE029033 Burg Stargard - Dewitzer Chaussee 3b, 17094 Burg Stargard, Germany",
+        "Adresse": "Dewitzer Chaussee 3b, 17094 Burg Stargard, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3208471,
+          53.494709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901290 - Aldi Nord Sassenberg SHO DE005048 - Hesselstraße 6, 48336 Sassenberg, Germany",
+        "Adresse": "Hesselstraße 6, 48336 Sassenberg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0375286,
+          51.9902177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901140 - WTV Bonn Hardtberg Pumpwerk - Beckstraße, 53123 Bonn, Germany",
+        "Adresse": "Beckstraße, 53123 Bonn, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0492926,
+          50.7058815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900010 - Aldi Nord Neuenkirchen LIN DE025007 - Industriestraße, 48485 Neuenkirchen, Germany",
+        "Adresse": "Industriestraße, 48485 Neuenkirchen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3686394,
+          52.2405478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900460 - Aldi Nord Essen Eisenbahnstraße DAT DE032093 - Eisenbahnstraße 20, 45134 Essen, Germany",
+        "Adresse": "Eisenbahnstraße 20, 45134 Essen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0446704,
+          51.4275655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901210 - Aldi Nord Bad Salzungen WEI DE031060 - Clara-Zetkin-Straße 9, 36433 Bad Salzungen, Germany",
+        "Adresse": "Clara-Zetkin-Straße 9, 36433 Bad Salzungen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2220763,
+          50.8106487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950110 - ALDI SÜD Herzogenrath-Merkstein ESC-008 - Nordstern-Park, 52134 Herzogenrath, Germany",
+        "Adresse": "Nordstern-Park, 52134 Herzogenrath, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1179509,
+          50.879078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900810 - Aldi Nord St. Peter-Ording - Dreilanden 9, 25826 St. Peter-Ording, Germany",
+        "Adresse": "Dreilanden 9, 25826 St. Peter-Ording, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6140091,
+          54.3266362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1700-96020 - John Deere - Industriestraße 27, 76646 Bruchsal, Germany",
+        "Adresse": "Industriestraße 27, 76646 Bruchsal, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.550319,
+          49.1875322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "000005 - TestBV03 - Lindenstraße 54, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 54, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1905387,
+          50.7976521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97630 - ALDI WEI DE31018 Kölleda - Weimarische Straße 1a, 99625 Kölleda, Germany",
+        "Adresse": "Weimarische Straße 1a, 99625 Kölleda, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2508418,
+          51.18201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97390 - Aldi Bergneustadt RAD NR DE002008 - Kölner straße 2-14, 51702 Bergneustadt, Germany",
+        "Adresse": "Kölner straße 2-14, 51702 Bergneustadt, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6401297,
+          51.0177035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98640 - Möbel Martin Konz ü. DF - Am Moselufer 7, 54329 Konz, Germany",
+        "Adresse": "Am Moselufer 7, 54329 Konz, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5816662,
+          49.7071706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950040 - ALDI SÜD Köln-Holweide DOR-032 - Steyler Straße 15, 51067 Köln-Holweide, Germany",
+        "Adresse": "Steyler Straße 15, 51067 Köln-Holweide, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0347345,
+          50.9666344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99630 - Aldi Nord Hameln SIE DE006169 (alt RIN DE018024) - Bertholdsweg 1, 31787 Hameln, Germany",
+        "Adresse": "Bertholdsweg 1, 31787 Hameln, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3461928,
+          52.1244072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99490 - ALDI SÜD Pohlheim BUT-025 - Neue Mitte 1, 35415 Pohlheim-Garbenteich, Germany",
+        "Adresse": "Neue Mitte 1, 35415 Pohlheim-Garbenteich, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75402,
+          50.53575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97710 - Aldi Wunstorf Luthe RIN DE018078 - Nienburger Straße, 31515 Wunstorf, Germany",
+        "Adresse": "Nienburger Straße, 31515 Wunstorf, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4617341,
+          52.431667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900390 - Röben Tonbaustoffe - Werk Querenstede - Zur Tonkuhle 5, 26160 Bad Zwischenahn, Germany",
+        "Adresse": "Zur Tonkuhle 5, 26160 Bad Zwischenahn, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9691905,
+          53.14725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900660 - Aldi Nord Harsewinkel SHO DE005059 - Prozessionsweg 43, 33428 Harsewinkel, Germany",
+        "Adresse": "Prozessionsweg 43, 33428 Harsewinkel, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2210777,
+          51.9700981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900030 - ALdi Nord Borsdorf BEU DE021020 - Panitzscher Straße 27, 04451 Borsdorf, Germany",
+        "Adresse": "Panitzscher Straße 27, 04451 Borsdorf, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5430972,
+          51.3522447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "499992014 - Ehmann Kinderhaus gGmbH - Pleiser Dreieck 175, 53757 Sankt Augustin, Germany",
+        "Adresse": "Pleiser Dreieck 175, 53757 Sankt Augustin, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.201328,
+          50.7726708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900630 - Aldi Nord Werl WER DE013001 - An der Bundesbahn 5, 59457 Werl, Germany",
+        "Adresse": "An der Bundesbahn 5, 59457 Werl, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9144336,
+          51.5588045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900170 - Frowein - Hölker Feld 16, 42279 Wuppertal, Germany",
+        "Adresse": "Hölker Feld 16, 42279 Wuppertal, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2528692,
+          51.2919574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99000 - STORNO Aldi Beverungen MÜN DE010021 - Blankenauer Straße 1, 37688 Beverungen, Germany",
+        "Adresse": "Blankenauer Straße 1, 37688 Beverungen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3737193,
+          51.6732603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901540 - Aldi Nord Chemnitz WIL DE036090 - Zschopauer Straße 244, 09126 Chemnitz, Germany",
+        "Adresse": "Zschopauer Straße 244, 09126 Chemnitz, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.956982,
+          50.8131622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901100 - Aldi Nord Brandenburg Scholl GRO DE020062 - Geschwister-Scholl-Straße 30, 14776 Brandenburg, Germany",
+        "Adresse": "Geschwister-Scholl-Straße 30, 14776 Brandenburg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5691064,
+          52.4030233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950170 - ALDI SÜD Neuötting EBE-019 - Simbacher straße 30c, 84524 Neuötting, Germany",
+        "Adresse": "Simbacher straße 30c, 84524 Neuötting, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7069653,
+          48.239294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900870 - Aldi Nord Wermelskirchen RAD NR DE002005 - Thomas-Mann-Straße 39, 42929 Wermelskirchen, Germany",
+        "Adresse": "Thomas-Mann-Straße 39, 42929 Wermelskirchen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2204414,
+          51.1441722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98670 - Aldi Gütersloh SHO DE005085 - Haegestraße 6-8, 33330 Gütersloh, Germany",
+        "Adresse": "Haegestraße 6-8, 33330 Gütersloh, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3658402,
+          51.9172449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950150 - ALDI SÜD Kürnach HEL-053 - Am Wachtelberg 1, 97273 Kürnach, Germany",
+        "Adresse": "Am Wachtelberg 1, 97273 Kürnach, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0333,
+          49.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901150 - WTV Bonn Röttgen Pumpwerk - Herzogsfreudenweg 901, 53127 Bonn, Germany",
+        "Adresse": "Herzogsfreudenweg 901, 53127 Bonn, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.068295,
+          50.6855452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97020 - Immotherm, Tübingen - Friedrich-Dannenmann-Straße 13+15, 72070 Tübingen, Germany",
+        "Adresse": "Friedrich-Dannenmann-Straße 13+15, 72070 Tübingen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0372479,
+          48.5250789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900730 - 900730 - Aldi Nord GE Grothus HER DE001060 - Grothusstraße 21, 45881 Gelsenkirchen, Germany",
+        "Adresse": "Grothusstraße 21, 45881 Gelsenkirchen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0720318,
+          51.5215767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901460 - Aldi Bochum Hattinger DAT DE032107 - Hattinger straße 620-632, 44789 Bochum, Germany",
+        "Adresse": "Hattinger straße 620-632, 44789 Bochum, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2136035,
+          51.471724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900690 - Aldi Nord Willebadessen SHO NR DE005055 - Am Sportplatz 4, 34439 Willebadessen, Germany",
+        "Adresse": "Am Sportplatz 4, 34439 Willebadessen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0229418,
+          51.625048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97780 - Aldi Rabenau-Londorf MÜN DE010091 (alt LAS DE017049) - An der Mühle 9, 35466 Rabenau, Germany",
+        "Adresse": "An der Mühle 9, 35466 Rabenau, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8488604,
+          50.6792203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97430 - Aldi Rendsburg NOR NR DE004049 - Schleswiger Chaussee 45, 24768 Rendsburg, Germany",
+        "Adresse": "Schleswiger Chaussee 45, 24768 Rendsburg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6443894,
+          54.3125648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901340 - KBV Gheorghiu Düsseldorf - Gustav-Mahler-Straße 6, 40593 Düsseldorf, Germany",
+        "Adresse": "Gustav-Mahler-Straße 6, 40593 Düsseldorf, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8831651,
+          51.150841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950260 - Studentenwohnheim Landau - Annweilerstraße 17, 76829 Landau, Germany",
+        "Adresse": "Annweilerstraße 17, 76829 Landau, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1031975,
+          49.195987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "96760 - Porsche, Landau - Hermann-Staudinger-straße 1, 76829 Landau, Germany",
+        "Adresse": "Hermann-Staudinger-straße 1, 76829 Landau, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1430801,
+          49.1929928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98610 - Ingenieure Thomas Müller - Alois-Senefelder-straße 1-3, 68167 Mannheim, Germany",
+        "Adresse": "Alois-Senefelder-straße 1-3, 68167 Mannheim, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5009034,
+          49.4977612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900620 - ALdi Nord Drolshagen RAD DE002041 - In der Hützenau 2, 57489 Drolshagen, Germany",
+        "Adresse": "In der Hützenau 2, 57489 Drolshagen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7666117,
+          51.0319426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98900 - Aldi Nord Logistik WER017 - Runtestraße 11, 59457 Werl, Germany",
+        "Adresse": "Runtestraße 11, 59457 Werl, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8933359,
+          51.5637136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98500 - DICO Trier II. BA - Rudolf-Diesel-straße 6, 54292 Trier, Germany",
+        "Adresse": "Rudolf-Diesel-straße 6, 54292 Trier, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6729932,
+          49.7729647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901270 - Aldi Nord Schöningen MEI NR DE026033 - Elmstraße 8a, 38364 Schöningen, Germany",
+        "Adresse": "Elmstraße 8a, 38364 Schöningen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9650846,
+          52.1420695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900200 - Aldi Logistik Erweiterung BAR - Max Planck straße3, 22941 Bargteheide, Germany",
+        "Adresse": "Max Planck straße3, 22941 Bargteheide, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2592,
+          53.7337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97480 - Aldi Oer-Erkenschwick NR DE032033 - Stimbergstraße 138, 45739 Oer-Erkenschwick, Germany",
+        "Adresse": "Stimbergstraße 138, 45739 Oer-Erkenschwick, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.259374,
+          51.6427506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900260 - Aldi Nord Lippstadt SHO DE005028 - Cappeler Stiftsallee 72, 59556 Lippstadt , Germany",
+        "Adresse": "Cappeler Stiftsallee 72, 59556 Lippstadt , Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3103071,
+          51.6852905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901670 - DHL Leverkusen - Maybachstraße 33, 51381 Leverkusen, Germany",
+        "Adresse": "Maybachstraße 33, 51381 Leverkusen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.026039,
+          51.0565043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901490 - Aldi Nord Leipzig Holzhäuser NR BEU DE021059 - Holzhäuser Straße 108, 04229 Leipzig, Germany",
+        "Adresse": "Holzhäuser Straße 108, 04229 Leipzig, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4247323,
+          51.319477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900350 - Aldi Nord Horn Bad Meinberg SHO DE005026 - Kampstraße 49, 32805 Horn-Bad Meinberg, Germany",
+        "Adresse": "Kampstraße 49, 32805 Horn-Bad Meinberg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9521203,
+          51.8803716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "96700 - Dienes Neuenkamp, Hückeswagen - Bockhackerstraße 14, 42499 Hückeswagen, Germany",
+        "Adresse": "Bockhackerstraße 14, 42499 Hückeswagen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2935029,
+          51.1397767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900340 - Aldi Nord Forst WIL DE036115 (alt MIT DE028065) - Skurumer Straße 2a, 03149 Forst, Germany",
+        "Adresse": "Skurumer Straße 2a, 03149 Forst, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6341285,
+          51.726656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98070 - Aldi Lohne WEY NR DE007025 - Lindenstraße 113, 49393 Lohne, Germany",
+        "Adresse": "Lindenstraße 113, 49393 Lohne, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2540311,
+          52.6750937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97620 - Rhiem Media, Voerde - Innungsweg 18, 46562 Voerde, Germany",
+        "Adresse": "Innungsweg 18, 46562 Voerde, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6701444,
+          51.6189712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901090 - Aldi Nord Brandenburg Willi GRO NR DE020069 - Willi-Sänger-Straße 66, 14770 Brandenburg, Germany",
+        "Adresse": "Willi-Sänger-Straße 66, 14770 Brandenburg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5448372,
+          52.4204878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98420 - Polarstern Köpenick - Grünauer straße 57-59, 12524 Berlin, Germany",
+        "Adresse": "Grünauer straße 57-59, 12524 Berlin, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5411867,
+          52.4195011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99250 - Aldi Neugersdorf WIL DE036065 - Bleichenstraße 3, 02727 Neugersdorf, Germany",
+        "Adresse": "Bleichenstraße 3, 02727 Neugersdorf, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6096331,
+          50.9810839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "49999-101 - Ach in Frechen - Kölner straße 67, 50226 Frechen, Germany",
+        "Adresse": "Kölner straße 67, 50226 Frechen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.825784,
+          50.9124663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97690 - Aldi Dermbach WEI NR DE031012 - An der Zehnt 4, 36466 Dermbach, Germany",
+        "Adresse": "An der Zehnt 4, 36466 Dermbach, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1239608,
+          50.7148283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "98210 - Schreinerei Steffan - Friedrich-List-Allee 74, 41844 Wegberg, Germany",
         "Adresse": "Friedrich-List-Allee 74, 41844 Wegberg, Germany",
         "_umap_options": {
@@ -6172,6 +7666,762 @@
         "coordinates": [
           6.2079604,
           51.1195718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98100 - Aldi Leipzig Schumann BEU NR DE021069 - Georg-Schumann Straße 363, 04159 Leipzig, Germany",
+        "Adresse": "Georg-Schumann Straße 363, 04159 Leipzig, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3210819,
+          51.3748936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900020 - Aldi Nord Steildach Pilot Herten - Scherlebecker straße256, 45701 Herten, Germany",
+        "Adresse": "Scherlebecker straße256, 45701 Herten, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0962,
+          51.5996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98040 - Aldi Hornstorf Rüggow Kritzow SBZ DE033006 - Karpendiek 3a, 23970 Hornstorf OT Kritzow, Germany",
+        "Adresse": "Karpendiek 3a, 23970 Hornstorf OT Kritzow, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.530608,
+          53.8915188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900500 - Wierig Solar; Aldi Steildachnachrüster, Plettenberg - Lennestraße 59, 58840 Plettenberg, Germany",
+        "Adresse": "Lennestraße 59, 58840 Plettenberg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8398929,
+          51.2353466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98920 - Aldi Leisnig BEU DE021044 - Wilhelm-Ostwald-straße 8, 04703 Leisnig, Germany",
+        "Adresse": "Wilhelm-Ostwald-straße 8, 04703 Leisnig, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9159861,
+          51.1567188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900300 - Aldi Nord Hildesheim SIE DE006108 (alt SAL DE014078) - Robert-Bosch-straße 101, 31139 HIldesheim, Germany",
+        "Adresse": "Robert-Bosch-straße 101, 31139 HIldesheim, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9099126,
+          52.1258674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900450 - Aldi Nord Coswig WIL DE036029 - Salzstraße 9, 01640 Coswig, Germany",
+        "Adresse": "Salzstraße 9, 01640 Coswig, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5845776,
+          51.1322649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "96390 - Mobau Euskirchen BA II - An der Vogelrute 55, 53879 Euskirchen, Germany",
+        "Adresse": "An der Vogelrute 55, 53879 Euskirchen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8046516,
+          50.6547265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97280 - Aldi Bielefeld SHO DE005064 - Gütersloher straße 243, 33758 Bielefeld, Germany",
+        "Adresse": "Gütersloher straße 243, 33758 Bielefeld, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.482481,
+          51.9825112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "950000 - DESAGA Wiesloch - In den Ziegelwiesen 1-7, 69168 Wiesloch, Germany",
+        "Adresse": "In den Ziegelwiesen 1-7, 69168 Wiesloch, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6659606,
+          49.2893038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900230 - Aldi Nord Herdecke SP WER DE013058 - Stiftstraße11, 58313 Herdecke, Germany",
+        "Adresse": "Stiftstraße11, 58313 Herdecke, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4313,
+          51.4121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901680 - Aldi Nord Döbeln WIL DE036008 - Grimmaische straße 67, 04720 Döbeln, Germany",
+        "Adresse": "Grimmaische straße 67, 04720 Döbeln, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.096368,
+          51.1333953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97470 - Südpack Ochsenhausen - Ecoformstraße 1, 88416 Erlenmoos, Germany",
+        "Adresse": "Ecoformstraße 1, 88416 Erlenmoos, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9683815,
+          48.064201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99210 - Aldi Minden SHO DE005118 (alt RIN NR DE018092) - Mindener straße 123, 32429 Minden, Germany",
+        "Adresse": "Mindener straße 123, 32429 Minden, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.887471,
+          52.2727615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99030 - Aldi Bad Arolsen SHO DE005138 (alt MÜN DE010030) - Korbacher straße 5, 34454 Bad Arolsen, Germany",
+        "Adresse": "Korbacher straße 5, 34454 Bad Arolsen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9993998,
+          51.3803982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "96960 - DM Weilerswist, IBC - An den Eifelhecken 1, 53919 Weilerswist, Germany",
+        "Adresse": "An den Eifelhecken 1, 53919 Weilerswist, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8547965,
+          50.7472012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99350 - ALDI SÜD Düsseldorf LGF-021 - Erkrather straße 248, 40233 Düsseldorf, Germany",
+        "Adresse": "Erkrather straße 248, 40233 Düsseldorf, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8168774,
+          51.2190708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99070 - Aldi Logistik JAR Erweiterung 2021 - Anklamer straße9, 17126 Jarmen, Germany",
+        "Adresse": "Anklamer straße9, 17126 Jarmen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35,
+          53.9167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97850 - Aldi LIN NR DE025055 Nordhorn - Kistemakerstraße 6, 48527 Nordhorn, Germany",
+        "Adresse": "Kistemakerstraße 6, 48527 Nordhorn, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0607986,
+          52.4445319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900060 - Möbel Block KM7 Küchenstudio - Karl-Maybach straße7, 88074 Meckenbeuren, Germany",
+        "Adresse": "Karl-Maybach straße7, 88074 Meckenbeuren, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5572,
+          47.6908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900820 - Aldi Nord Rethem WEY NR DE007084 - Stöckener Straße 12, 27336 Rethem, Germany",
+        "Adresse": "Stöckener Straße 12, 27336 Rethem, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3721727,
+          52.7814075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900110 - Aldi Nord Kiel NOR DE004071 - Villacher Straße 8, 24147 Kiel, Germany",
+        "Adresse": "Villacher Straße 8, 24147 Kiel, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1737157,
+          54.2975741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99090 - Aldi Nordhorn LIN DE025010 - Wietmarscher straße 8, 48531 Nordhorn, Germany",
+        "Adresse": "Wietmarscher straße 8, 48531 Nordhorn, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0833386,
+          52.4418079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98730 - Logicor Straubing ü WDF - Europaring 22, 94315 Straubing, Germany",
+        "Adresse": "Europaring 22, 94315 Straubing, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6610812,
+          48.897747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98170 - Aldi Prenzlau SEF DE024026 - Kietzstraße 20, 17291 Prenzlau, Germany",
+        "Adresse": "Kietzstraße 20, 17291 Prenzlau, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8573126,
+          53.3204019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97190 - Aldi, Gehrden RIN DE018079     -damals STORNO- - Everloher straße 1, 30989 Gehrden, Germany",
+        "Adresse": "Everloher straße 1, 30989 Gehrden, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.593122,
+          52.3200975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901300 - Aldi Nord Friedeburg HES DE015074 - Friedeburger Hauptstraße 121, 26446 Friedeburg, Germany",
+        "Adresse": "Friedeburger Hauptstraße 121, 26446 Friedeburg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8387128,
+          53.4589845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99510 - ALDI SÜD Königsfeld DON-074 - Peterzeller Straße 1, 78126 Königsfeld, Germany",
+        "Adresse": "Peterzeller Straße 1, 78126 Königsfeld, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4166402,
+          48.1349925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901010 - Aldi Nord Ascheberg NOR NR DE004003 - Plöner Chaussee 74, 24326 Ascheberg, Germany",
+        "Adresse": "Plöner Chaussee 74, 24326 Ascheberg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3434433,
+          54.1489551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900740 - Aldi Nord Eschede SIE NR DE006034 - Celler straße 50a, 29348 Eschede, Germany",
+        "Adresse": "Celler straße 50a, 29348 Eschede, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.228138,
+          52.7275982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1700-96240 - John Deere Gebäude 30, 35 Kabinenwerk - Industriestraße 27, 76646 Bruchsal, Germany",
+        "Adresse": "Industriestraße 27, 76646 Bruchsal, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.550319,
+          49.1875322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97220 - Aldi, Lüdenscheid RAD DE002025 - Alenaer straße 81, 58507 Lüdenscheid, Germany",
+        "Adresse": "Alenaer straße 81, 58507 Lüdenscheid, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6342,
+          51.2258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901390 - Aldi Nord Salzbergen LIN DE025050 - Am Gillenbrink 2, 48499 Salzbergen, Germany",
+        "Adresse": "Am Gillenbrink 2, 48499 Salzbergen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3524671,
+          52.3212182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900140 - Aldi Nord Essen Borbeck HER DE001040 - Wolfsbankring 30, 45355 Essen, Germany",
+        "Adresse": "Wolfsbankring 30, 45355 Essen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9567439,
+          51.472062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901250 - Aldi Nord Eilsleben MEI DE026021 - Ovelgünner Straße 34, 39365 Eilsleben, Germany",
+        "Adresse": "Ovelgünner Straße 34, 39365 Eilsleben, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2265543,
+          52.1469424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900370 - Aldi Nord Datteln DAT NR DE032035 - Castroper Straße 239, 45711 Datteln, Germany",
+        "Adresse": "Castroper Straße 239, 45711 Datteln, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3326503,
+          51.6354616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99530 - Mundorf Ranzel - Gierslinger straße 13, 53859 Niederkassel, Germany",
+        "Adresse": "Gierslinger straße 13, 53859 Niederkassel, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0273617,
+          50.8295063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99540 - Aldi Nord Handewitt NOR DE004045 - Wiesharder Markt 14a, 24983 Handewitt, Germany",
+        "Adresse": "Wiesharder Markt 14a, 24983 Handewitt, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3221303,
+          54.7722428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99560 - FKB UPS Rückbau 2022 - Heinrich-Steinmann-straße 12, 51147 Köln, Germany",
+        "Adresse": "Heinrich-Steinmann-straße 12, 51147 Köln, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.138961,
+          50.8677817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98410 - Lohoff Transport, Werne - Froningholz 10, 59368 Werne, Germany",
+        "Adresse": "Froningholz 10, 59368 Werne, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6219225,
+          51.6847218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97570 - Aldi Gelsenkirchen Hertener NR DE001023 - Hertener straße 53, 45892 Gelsenkirchen, Germany",
+        "Adresse": "Hertener straße 53, 45892 Gelsenkirchen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1052044,
+          51.5817651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99180 - Aldi Barntrup SHO DE005123 (alt RIN DE018023) - Alverdisser straße 7, 32683 Barntrup, Germany",
+        "Adresse": "Alverdisser straße 7, 32683 Barntrup, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1191516,
+          51.9957764
         ]
       }
     }
