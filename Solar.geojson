@@ -1,1 +1,185 @@
-
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97590 - Aldi Kassel Niedervellmaer MÜN DE010047 - Niedervellmaer straße  2, 34127 Kassel, Germany",
+        "Adresse": "Niedervellmaer straße  2, 34127 Kassel, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4913,
+          51.3355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98710 - REWE Eitting ü WDF - Am Isarkanal 20, 85462 Eitting, Germany",
+        "Adresse": "Am Isarkanal 20, 85462 Eitting, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8892336,
+          48.3684176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900420 - Aldi Nord Hagenow SBZ DE033093 - Rudolf-Tarnow-Straße 77, 19230 Hagenow, Germany",
+        "Adresse": "Rudolf-Tarnow-Straße 77, 19230 Hagenow, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1992871,
+          53.4281427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97540 - Aldi Kirchhain MÜN DE010025(alt LAS DE017012) - Frankfurter straße 7, 35274 Kirchhain, Germany",
+        "Adresse": "Frankfurter straße 7, 35274 Kirchhain, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9149974,
+          50.8260178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900510 - Aldi Nord Velbert RAD NR DE002032 - Heiligenhauser Straße 60, 42549 Velbert, Germany",
+        "Adresse": "Heiligenhauser Straße 60, 42549 Velbert, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0224332,
+          51.3328714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98320 - Aldi Bielefeld SHO NR DE005056 - Beckhausstraße 64, 33611 Bielefeld, Germany",
+        "Adresse": "Beckhausstraße 64, 33611 Bielefeld, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5450374,
+          52.0385941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "96720 - Palmira, HP Herrenberg - Hewlett-Packard-Straße 1, 71083 Herrenberg, Germany",
+        "Adresse": "Hewlett-Packard-Straße 1, 71083 Herrenberg, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8885727,
+          48.5798143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901530 - Aldi Nord Heringsdorf JAR DE029012 - Labahnstraße 18, 17424 Heringsdorf, Germany",
+        "Adresse": "Labahnstraße 18, 17424 Heringsdorf, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154889,
+          53.9580653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "96090 - Nordcap, Ziegler - Thalenhorststraße 15, 28307 Bremen, Germany",
+        "Adresse": "Thalenhorststraße 15, 28307 Bremen, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9583881,
+          53.0396687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99041 - Montag Stiftung Bonn Gebäude M - ehemals Gebäude Romeo - Raiffeisenstraße2, 53113 Bonn, Germany",
+        "Adresse": "Raiffeisenstraße2, 53113 Bonn, Germany",
+        "_umap_options": {
+          "color": "orange",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1068,
+          50.7231
+        ]
+      }
+    }
+  ]
+}
