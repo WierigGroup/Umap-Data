@@ -1120,24 +1120,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "000001 - TestBV01 - Lindenstraße 56, 53721 Siegburg, Germany",
-        "Adresse": "Lindenstraße 56, 53721 Siegburg, Germany",
-        "_umap_options": {
-          "color": "red",
-          "iconClass": "Ball"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1963081,
-          50.7970184
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "401540 - CEFI II Retail; Dachsanierung FMZ, Augsburg - Brahmsstraße 2, 86179 Augsburg, Germany",
         "Adresse": "Brahmsstraße 2, 86179 Augsburg, Germany",
         "_umap_options": {
@@ -2950,24 +2932,6 @@
         "coordinates": [
           13.4600226,
           52.4683565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "000001 - TestBV02 - Lindenstraße 55, 53721 Siegburg, Germany",
-        "Adresse": "Lindenstraße 55, 53721 Siegburg, Germany",
-        "_umap_options": {
-          "color": "#0064A7",
-          "iconClass": "Ball"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1905387,
-          50.7976521
         ]
       }
     },
