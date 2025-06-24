@@ -166,6 +166,42 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85690 - WEG(MünzelIBFK) - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85660 - DIACOR Mfh - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87830 - WTV, Pumpenwerk Lengsdorf - Lengsdorf, 53127 Bonn, Germany",
         "Adresse": "Lengsdorf, 53127 Bonn, Germany",
         "_umap_options": {
@@ -238,6 +274,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85950 - Lessingstr.52,Köln - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "88510 - Krautter, Köln - Marsiliusstraße 46, 50937 Köln, Germany",
         "Adresse": "Marsiliusstraße 46, 50937 Köln, Germany",
         "_umap_options": {
@@ -304,6 +358,24 @@
         "coordinates": [
           7.0238779,
           50.940288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85330 - GWG,Nassaustr.10-16 - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -436,6 +508,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "86390 - WEG(Wedde)Lohmar - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87570 - GAG; 51061 Köln - Moses-Hess-straße 49, 51061 Köln, Germany",
         "Adresse": "Moses-Hess-straße 49, 51061 Köln, Germany",
         "_umap_options": {
@@ -562,6 +652,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85890 - Wierig NP19 - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87020 - WEG (Primus), 53332 Bornheim - Kantstraße 36-40, Herderstraße 26-34, 53332 Bornheim, Germany",
         "Adresse": "Kantstraße 36-40, Herderstraße 26-34, 53332 Bornheim, Germany",
         "_umap_options": {
@@ -664,6 +772,42 @@
         "coordinates": [
           13.401667,
           52.525315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86250 - AS,Hennef,ObereSieg. - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "90120 - Eigent.Werderma.Robe - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -778,6 +922,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "86650 - Schwierz(Arealis) - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "88060 - GAG Immobilien AG, Köln - Moses-Heß-straße 13 + 15, 51061 Köln, Germany",
         "Adresse": "Moses-Heß-straße 13 + 15, 51061 Köln, Germany",
         "_umap_options": {
@@ -790,6 +952,24 @@
         "coordinates": [
           6.9957876,
           50.9845458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85580 - Foncia,Siegfeldst. - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -1030,6 +1210,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "99999 - Kleinaufträge - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87320 - GAG, 51061 Köln - Moses-Heß-straße 15, 51061 Köln, Germany",
         "Adresse": "Moses-Heß-straße 15, 51061 Köln, Germany",
         "_umap_options": {
@@ -1042,6 +1240,24 @@
         "coordinates": [
           6.9984364,
           50.9846589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86610 - Colleo(Jozcon) - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -1132,6 +1348,24 @@
         "coordinates": [
           7.1701344,
           50.7444887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85360 - Capito,Kalk-Mühlheim - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -1282,6 +1516,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85400 - Mauritiuswall Köln - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87440 - WEG (Immoconcept), 51109 Köln - Käthe-Schlechter-straße 7-11, 51109 Köln, Germany",
         "Adresse": "Käthe-Schlechter-straße 7-11, 51109 Köln, Germany",
         "_umap_options": {
@@ -1426,6 +1678,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85390 - GAG,Mainstr. - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87260 - GEWOG; 51143 Köln - Westfeldgasse 26, 51143 Köln, Germany",
         "Adresse": "Westfeldgasse 26, 51143 Köln, Germany",
         "_umap_options": {
@@ -1444,6 +1714,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85830 - Portfolio,Henkelstr. - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87770 - GAG Immobilien AG, Köln - Moses-Hess-straße 39, 51061 Köln, Germany",
         "Adresse": "Moses-Hess-straße 39, 51061 Köln, Germany",
         "_umap_options": {
@@ -1456,6 +1744,24 @@
         "coordinates": [
           6.9978035,
           50.9841134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86260 - (P&B-BFK)Simon-Meist - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -1552,6 +1858,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "85440 - Ford Köln - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87850 - Stadtentwicklungsgesellschaft Siegburg mbH, Siegburg - Bachstraße 1a, 53721 Siegburg, Germany",
         "Adresse": "Bachstraße 1a, 53721 Siegburg, Germany",
         "_umap_options": {
@@ -1642,6 +1966,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "86400 - WEG(AlfredBucherer) - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87280 - Wierig GmbH D+F; 64293 Darmstadt - Otto-Röhm-straße 76, 64293 Darmstadt, Germany",
         "Adresse": "Otto-Röhm-straße 76, 64293 Darmstadt, Germany",
         "_umap_options": {
@@ -1690,6 +2032,24 @@
         "coordinates": [
           6.9461259,
           50.9611086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86370 - Splett,Lessingstr.50 - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -2074,6 +2434,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "86470 - Baumann Immob. - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87810 - Amberg, Köln - An der alten Post 24, 50859 Köln, Germany",
         "Adresse": "An der alten Post 24, 50859 Köln, Germany",
         "_umap_options": {
@@ -2230,6 +2608,24 @@
         "coordinates": [
           7.1449614,
           50.7553195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85770 - WEG(ImmoCon)Nesselbu - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -2452,6 +2848,42 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "84630 - GAG,Mainstr.43-49 - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86850 - WEG(Jochheim)Theodor - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87730 - Grund + Boden GmbH (GAG Immo AG), Köln - Ollenhauerring 2-10, 50829 Köln, Germany",
         "Adresse": "Ollenhauerring 2-10, 50829 Köln, Germany",
         "_umap_options": {
@@ -2590,6 +3022,42 @@
         "coordinates": [
           6.9568083,
           50.9413212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86950 - Zimmermann,Sterren - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "86280 - Vürfelser Kauler - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
@@ -2776,6 +3244,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "86920 - Wendling,Stifts,Bonn - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "87360 - WEG (Grafsch.Immo-Jozcon), 47495 Rheinberg - Innenwall 49-51, Wallstege 4-8, 47495 Rheinberg, Germany",
         "Adresse": "Innenwall 49-51, Wallstege 4-8, 47495 Rheinberg, Germany",
         "_umap_options": {
@@ -2878,6 +3364,24 @@
         "coordinates": [
           6.9622955,
           50.9768382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "85540 - WEG(ImmoCon.)Regente - ?, ? ?, Germany",
+        "Adresse": "?, ? ?, Germany",
+        "_umap_options": {
+          "color": "green",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
         ]
       }
     },
