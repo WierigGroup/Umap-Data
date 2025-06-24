@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401760 - Hornbach; Neubau BAL, Ludwigsburg - Liebigstraße 8, 71636 Ludwigsburg, Germany",
+        "Adresse": "Liebigstraße 8, 71636 Ludwigsburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1523166,
+          48.8896092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401950 - Kipp Massa, Dachsanierung Roller Markt, Offenbach - Strahlenbergstraße 81, 63067 Offenbach, Germany",
+        "Adresse": "Strahlenbergstraße 81, 63067 Offenbach, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7344,
+          50.1069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402060 - Deutsche Post AG; Dachsanierung ZSP, VS - Spittelbronner Weg 89, 78056 Villingen Schwenningen, Germany",
+        "Adresse": "Spittelbronner Weg 89, 78056 Villingen Schwenningen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5721797,
+          48.0688935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401810 - Altenbach; BV Bond Campus, Heidelberg - Henkel-Teroson-Straße 10, 69123 Heidelberg, Germany",
+        "Adresse": "Henkel-Teroson-Straße 10, 69123 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6441251,
+          49.4099103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401700 - Palmira; Halle 3 Farbtex, Herrenberg - Hewlett-Packard-Straße 3, 71083 Herrenberg, Germany",
+        "Adresse": "Hewlett-Packard-Straße 3, 71083 Herrenberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8896666,
+          48.5819282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401210 - Mr. Wash; NB Waschhalle, Heidelberg - Haberstraße, 69126 Heidelberg, Germany",
+        "Adresse": "Haberstraße, 69126 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6771074,
+          49.3649233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104340 - Hornbach; Dachertüchtigung, Tübingen - Vor dem Großholz 2, 72074 Tübingen, Germany",
+        "Adresse": "Vor dem Großholz 2, 72074 Tübingen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0985602,
+          48.5223474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401540 - CEFI II Retail; Dachsanierung FMZ, Augsburg - Brahmsstraße 2, 86179 Augsburg, Germany",
+        "Adresse": "Brahmsstraße 2, 86179 Augsburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.899104,
+          48.296976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401830 - AbbVie; Dachsanierung LU01, Ludwigshafen - Knollstraße, 67061 Ludwigshafen, Germany",
+        "Adresse": "Knollstraße, 67061 Ludwigshafen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4418733,
+          49.4752322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401560 - Mr. Wash; Dachbegrünung, Heidelberg - Haberstraße 2, 69126 Heidelberg, Germany",
+        "Adresse": "Haberstraße 2, 69126 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6771074,
+          49.3649233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401900 - GBS; Steigleiter, Pforzheim - Haidachstraße 4-6, 75181 Pforzheim, Germany",
+        "Adresse": "Haidachstraße 4-6, 75181 Pforzheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7383695,
+          48.8800459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402040 - United Germany; Sanierung Mileway, Friolzheim - Leonberger straße 88, 71292 Friolzheim, Germany",
+        "Adresse": "Leonberger straße 88, 71292 Friolzheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8459492,
+          48.8370195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401890 - Palmira, Austausch Lichtkuppeln H1 und H2, Herrenberg - Hewlett-Packard -Straße 5, 71083 Herrenberg, Germany",
+        "Adresse": "Hewlett-Packard -Straße 5, 71083 Herrenberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8863576,
+          48.5801683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401970 - Hornbach; Dachsanierung Hochregallager, Bad Bergzabern - Kurfürstenstraße 9, 76887 Bad Bergzabern, Germany",
+        "Adresse": "Kurfürstenstraße 9, 76887 Bad Bergzabern, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0100855,
+          49.1082737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401820 - Roche, Stützeneinbau Kantine, Mannheim - Sandhofer Straße 116, 68305 Mannheim, Germany",
+        "Adresse": "Sandhofer Straße 116, 68305 Mannheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4735536,
+          49.5309625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401880 - Industria; San. unteres Dach, Darmstadt - Borsigstraße 11, 64291 Darmstadt, Germany",
+        "Adresse": "Borsigstraße 11, 64291 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6387234,
+          49.9158314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104340 - Hornbach; Dachertüchtigung, Tübingen - Vor dem Großholz 2, 72074 Tübingen, Germany",
+        "Adresse": "Vor dem Großholz 2, 72074 Tübingen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0985602,
+          48.5223474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402000 - Industria; Dachrand Wittichstraße, Darmstadt - Wittichstraße 6, 64295 Darmstadt, Germany",
+        "Adresse": "Wittichstraße 6, 64295 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6280786,
+          49.8639355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401710 - D&S; Wohnbebauung GGH Hospital, Heidelberg - Freiburger Straße, 69126 Heidelberg, Germany",
+        "Adresse": "Freiburger Straße, 69126 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6777256,
+          49.3739048
+        ]
+      }
+    }
+  ]
+}
