@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88360 - Eiflia Real Estate (Arealis), Bonn - Dreizehnmorgenweg 10, 53175 Bonn, Germany",
+        "Adresse": "Dreizehnmorgenweg 10, 53175 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1351721,
+          50.7014195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88410 - Weber, Sankt Augustin - In den Tannen 28, 53757 Sankt Augustin, Germany",
+        "Adresse": "In den Tannen 28, 53757 Sankt Augustin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2018856,
+          50.7823493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88380 - WEG (Capitol), Köln - Venloer straße 472a, Leyendecker straße 67a, 50825 Köln, Germany",
+        "Adresse": "Venloer straße 472a, Leyendecker straße 67a, 50825 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9097107,
+          50.9546237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88540 - Ragas; Köln - Wiener Weg 18, 50858 Köln, Germany",
+        "Adresse": "Wiener Weg 18, 50858 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8627847,
+          50.9266273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88140 - WEG (GAG), Köln - Wallensteinstraße 10 + 13, 51067 Köln, Germany",
+        "Adresse": "Wallensteinstraße 10 + 13, 51067 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0432284,
+          50.9707113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88510 - Krautter, Köln - Marsiliusstraße 46, 50937 Köln, Germany",
+        "Adresse": "Marsiliusstraße 46, 50937 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9220384,
+          50.9201263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88170 - WEG (GZ Immo), Köln - Schachtstraße 5, 50734 Köln, Germany",
+        "Adresse": "Schachtstraße 5, 50734 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9742957,
+          50.9673286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88520 - Mietmanagement der GAG mbH; Köln - Am Haselbusch 2, 50827 Köln, Germany",
+        "Adresse": "Am Haselbusch 2, 50827 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8983983,
+          50.9606716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88330 - WEG (Zeit&Wert, Laudenberg), Weilerswist - Bahnhofsalle 1a, Bonner straße 62, 62a, 53919 Weilerswist, Germany",
+        "Adresse": "Bahnhofsalle 1a, Bonner straße 62, 62a, 53919 Weilerswist, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8395,
+          50.7554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88350 - WTV Siegburg, Alfter - Alfterer straße 113, 53347 Alfter, Germany",
+        "Adresse": "Alfterer straße 113, 53347 Alfter, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0203823,
+          50.7287163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88440 - Krämling, Köln - Am Wolfsgarten 20, 51147 Köln, Germany",
+        "Adresse": "Am Wolfsgarten 20, 51147 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0864097,
+          50.8606839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88530 - WEG (Nuzzo), Köln - Holunderweg 17, 50858 Köln, Germany",
+        "Adresse": "Holunderweg 17, 50858 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85196,
+          50.9364019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88220 - Wintrich; Siegburg - Zeithstraße 72, 53721 Siegburg, Germany",
+        "Adresse": "Zeithstraße 72, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2173366,
+          50.7990298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88550 - Rey; Kerpen - Rosenweg 10, 50171 Kerpen, Germany",
+        "Adresse": "Rosenweg 10, 50171 Kerpen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6992499,
+          50.8782296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88470 - WEG (KGV), Köln - Alteburger straße 302-306, 50968 Köln, Germany",
+        "Adresse": "Alteburger straße 302-306, 50968 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9766322,
+          50.9064082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88150 - GAG Immobilien AG, Köln - Moses-Heß-straße 34, 51061 Köln, Germany",
+        "Adresse": "Moses-Heß-straße 34, 51061 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9958794,
+          50.9848407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88400 - Moog, Wachtberg-Fritzdorf - Am Zippenacker 7, 53343 Wachtberg, Germany",
+        "Adresse": "Am Zippenacker 7, 53343 Wachtberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0881997,
+          50.5946872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88490 - WEG (ImmoConcpet, Steinbusch), Bonn - Zanderstraße 2-4, 53177 Bonn, Germany",
+        "Adresse": "Zanderstraße 2-4, 53177 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1660789,
+          50.6754227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88110 - WEG (Valo), Bonn - Hopmannstraße 2, 53177 Bonn, Germany",
+        "Adresse": "Hopmannstraße 2, 53177 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1553238,
+          50.6744325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88430 - GAG Immo AG, Köln - Moses-Heß-straße 59, 51061 Köln, Germany",
+        "Adresse": "Moses-Heß-straße 59, 51061 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9966061,
+          50.9841347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88370 - Nico VV (Arealis), Bonn - Akazienweg 18, 53177 Bonn, Germany",
+        "Adresse": "Akazienweg 18, 53177 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1534496,
+          50.6641429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88250 - Häns GmbH&Co.KG; 50670 Köln - Gereonswall 97, 50670 Köln, Germany",
+        "Adresse": "Gereonswall 97, 50670 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9452314,
+          50.945037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88200 - WEG (Splett), 50735 Köln - Garthe straße 18, 50735 Köln, Germany",
+        "Adresse": "Garthe straße 18, 50735 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9751466,
+          50.9652863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88160 - WEG (ImmoConcept), Bonn - Rheinaustraße 75-77, 53225 Bonn, Germany",
+        "Adresse": "Rheinaustraße 75-77, 53225 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.11574,
+          50.7336438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88320 - EG (GAG), Köln - Gelsenkirchener straße 36-42, 50735 Köln, Germany",
+        "Adresse": "Gelsenkirchener straße 36-42, 50735 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9628142,
+          50.9720741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88340 - DB Regio AG, Dortmund - Werkmeisterstraße 65, 44145 Dortmund, Germany",
+        "Adresse": "Werkmeisterstraße 65, 44145 Dortmund, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4973987,
+          51.5251546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88420 - GAG Immo AG; Köln - Moses-Heß-straße 54, 51061 Köln, Germany",
+        "Adresse": "Moses-Heß-straße 54, 51061 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9946948,
+          50.9845926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88300 - Wahnbachtalsperrenverband, Siegburg - Siegelsknippen 1, 53721 Siegburg, Germany",
+        "Adresse": "Siegelsknippen 1, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.270701,
+          50.814892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88270 - GAG Immobilien AG; 51061 Köln - Niersstraße 2, 51061 Köln, Germany",
+        "Adresse": "Niersstraße 2, 51061 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9950098,
+          50.982861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88230 - GAG Immo AG; 50735 Köln - Duisburger straße 25, 50735 Köln, Germany",
+        "Adresse": "Duisburger straße 25, 50735 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9650468,
+          50.9732952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88460 - WEG (Capitol,Formplan), Köln - Friedenstraße 14, 50676 Köln, Germany",
+        "Adresse": "Friedenstraße 14, 50676 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9530709,
+          50.9290415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88280 - WEG (ImmoConcept), 53123 Bonn - Freiligrathstraße 5, 53123 Bonn, Germany",
+        "Adresse": "Freiligrathstraße 5, 53123 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0591914,
+          50.7168005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88260 - WEG (KGV), 50679 Köln - Deutz-Kalker-straße 56-64, 50679 Köln, Germany",
+        "Adresse": "Deutz-Kalker-straße 56-64, 50679 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9841744,
+          50.937066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88210 - TUP GbR Garcia & Klähn (Capitolreal), 50670 Köln - Mohrenstraße 25, 50670 Köln, Germany",
+        "Adresse": "Mohrenstraße 25, 50670 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9475166,
+          50.9421415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88130 - Stegerhoff+Exner (ZWL), Vilich Müldorf - Beueler straße 37, 53229 Bonn, Germany",
+        "Adresse": "Beueler straße 37, 53229 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1449614,
+          50.7553195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88290 - Grace Invest GmbH, Bonn - Hedwig Dransfeld straße 8, 53125 Bonn, Germany",
+        "Adresse": "Hedwig Dransfeld straße 8, 53125 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0720032,
+          50.6851285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88500 - GAG Immobilien AG; Köln - Moses-Heß-straße 24, 51061 Köln, Germany",
+        "Adresse": "Moses-Heß-straße 24, 51061 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9962378,
+          50.9856661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88180 - Bayerische Versorgungskammer, Köln - Domkloster 2, 2a, 50667 Köln, Germany",
+        "Adresse": "Domkloster 2, 2a, 50667 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9568083,
+          50.9413212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88310 - Ragas, Bonn-Bad Godesberg - Turmstraße 10, 53175 Bonn, Germany",
+        "Adresse": "Turmstraße 10, 53175 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1668667,
+          50.6999319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88240 - WEG (GZ Immo), 50733 Köln - Blücherstraße 8, 50733 Köln, Germany",
+        "Adresse": "Blücherstraße 8, 50733 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9544808,
+          50.9664335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88390 - WEG (Busch, Laudenberg), Köln - Wevelinghovener straße 2 + 4, 50733 Köln, Germany",
+        "Adresse": "Wevelinghovener straße 2 + 4, 50733 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9522555,
+          50.9542559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88450 - Ragas, Neuss - Ulmenallee 130, 41469 Neuss, Germany",
+        "Adresse": "Ulmenallee 130, 41469 Neuss, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7388279,
+          51.1496939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88480 - WEG (Wissen), Bad Neuenahr-Ahrweiler - Ravensburger straße 11/11a, 53474 Bad Neuenahr, Germany",
+        "Adresse": "Ravensburger straße 11/11a, 53474 Bad Neuenahr, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1,
+          50.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88190 - Gewog, Köln - Pfaffenpfad 15 + Stralsunder 42, 51145 Köln, Germany",
+        "Adresse": "Pfaffenpfad 15 + Stralsunder 42, 51145 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0781532,
+          50.8844862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "88120 - GEWOG, Köln - Röntgenstraße 9, 51145 Köln, Germany",
+        "Adresse": "Röntgenstraße 9, 51145 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0644613,
+          50.8863324
+        ]
+      }
+    }
+  ]
+}
