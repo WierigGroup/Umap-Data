@@ -1,0 +1,689 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901530 - Aldi Nord Heringsdorf JAR DE029012 - Labahnstraße 18, 17424 Heringsdorf, Germany",
+        "Adresse": "Labahnstraße 18, 17424 Heringsdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.154889,
+          53.9580653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901280 - Aldi Nord Wurzen BEU DE021033 - Nischwitzer Breite 1, 04808 Wurzen, Germany",
+        "Adresse": "Nischwitzer Breite 1, 04808 Wurzen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7255924,
+          51.3847845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900930 - Aldi Nord Neustrelitz JAR DE029075 - Prenzliner Straße 47, 17235 Neustrelitz, Germany",
+        "Adresse": "Prenzliner Straße 47, 17235 Neustrelitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0672,
+          53.3501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901450 - Aldi Nord Naunhof BEU NR DE021005 - Erdmannshainer Straße 58, 04683 Naunhof, Germany",
+        "Adresse": "Erdmannshainer Straße 58, 04683 Naunhof, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125803102.0,
+          512802034.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901230 - Aldi Nord Dessau Roßlau MEI NR DE026067 - Roßlauer Allee 4, 06844 Dessau-Roßlau, Germany",
+        "Adresse": "Roßlauer Allee 4, 06844 Dessau-Roßlau, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2398783,
+          51.846517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900610 - Aldi Nord Velten SEF DE024069 - Rosa-Luxemburg Straße 22, 16727 Velten, Germany",
+        "Adresse": "Rosa-Luxemburg Straße 22, 16727 Velten, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131664401.0,
+          526788925.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901600 - Aldi Nord Freyburg WEI DE031047 - Friedhofsweg 2, 06632 Freyburg, Germany",
+        "Adresse": "Friedhofsweg 2, 06632 Freyburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117725748.0,
+          512201294.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900360 - Aldi Nord Mirow JAR DE029076 - Wesenberger Chaussee 4, 17252 Mirow, Germany",
+        "Adresse": "Wesenberger Chaussee 4, 17252 Mirow, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128234802.0,
+          532740277.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901570 - Aldi Nord Chemnitz Bornaerstraße WIL DE036095 - Bornaer Straße 148, 09114 Chemnitz, Germany",
+        "Adresse": "Bornaer Straße 148, 09114 Chemnitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9025109,
+          50.8639786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901240 - Aldi  Nord Biederitz MEI NR DE026052 - Heyrothsberger straße 62, 39175 Biederitz, Germany",
+        "Adresse": "Heyrothsberger straße 62, 39175 Biederitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7222776,
+          52.1460041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99450 - Aldi Bernau SEF DE024032 - Rüdnitzer Chaussee 48-50, 16321 Bernau, Germany",
+        "Adresse": "Rüdnitzer Chaussee 48-50, 16321 Bernau, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136007425.0,
+          526881943.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97950 - Aldi Berlin GRO DE020005 ehmals BER DE011019 Charlotten - Charlottenburger Chaussee 30, 13597 Berlin, Germany",
+        "Adresse": "Charlottenburger Chaussee 30, 13597 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2377898,
+          52.5270986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901470 - Aldi Nord Berlin Dietzgenstraße SEF DE024037 - Dietzgenstraße 86, 13156 Berlin, Germany",
+        "Adresse": "Dietzgenstraße 86, 13156 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4019992,
+          52.5891081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900680 - Aldi Nord Berlin Späth MIT DE028053 - Späthstraße 14, 12359 Berlin, Germany",
+        "Adresse": "Späthstraße 14, 12359 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134555931.0,
+          524524046.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901520 - Aldi Nord Cottbus WIL DE036127 - Stadtring 8, 03042 Cottbus, Germany",
+        "Adresse": "Stadtring 8, 03042 Cottbus, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143578664.0,
+          517652716.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901580 - Aldi Nord Dresden WIL DE036052 Travemünder - Travemünder straße 1, 01109 Dresden, Germany",
+        "Adresse": "Travemünder straße 1, 01109 Dresden, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7698571,
+          51.1194955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99460 - Aldi Berlin Marzahner SEF DE024038 - Marzahner Chaussee 218, 12681 Berlin, Germany",
+        "Adresse": "Marzahner Chaussee 218, 12681 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135346989.0,
+          525250592.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99050 - Aldi Brand-Erbisdorf WIL DE036007 - Großhartmannsdorfer Straße 13, 09618 Brand Erbisdorf, Germany",
+        "Adresse": "Großhartmannsdorfer Straße 13, 09618 Brand Erbisdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133204444.0,
+          508576274.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901200 - Aldi Nord Eisenach WEI DE031036 - Altstadtstraße 2, 99817 Eisenach, Germany",
+        "Adresse": "Altstadtstraße 2, 99817 Eisenach, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103377365.0,
+          50975946.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900990 - Aldi Nord Hainichen WIL DE036054 - Bahnhofstraße 18, 09661 Hainichen, Germany",
+        "Adresse": "Bahnhofstraße 18, 09661 Hainichen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1198587,
+          50.971072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901610 - Aldi Nord Eisenach Karlskuppe WEI DE031028 - An der Karlskuppe 9, 99817 Eisenach, Germany",
+        "Adresse": "An der Karlskuppe 9, 99817 Eisenach, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102929698.0,
+          50992573.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900040 - Aldi Nord Halle BEU DE021111 - Trothaer Straße 42, 06118 Halle, Germany",
+        "Adresse": "Trothaer Straße 42, 06118 Halle, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119537093.0,
+          515198302.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901260 - Aldi Nord Hohenwarsleben MEI DE026026 - Irxleber straße 7, 39326 Hohe Börde, Germany",
+        "Adresse": "Irxleber straße 7, 39326 Hohe Börde, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4953596,
+          52.1767379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901190 - Aldi Nord Plauen WEI DE031022 - Neundorfer Straße 188, 08523 Plauen, Germany",
+        "Adresse": "Neundorfer Straße 188, 08523 Plauen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.10037,
+          50.4944177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99360 - Aldi Berlin Röbling GRO DE020006 - Röblingstraße 118-124, 12105 Berlin, Germany",
+        "Adresse": "Röblingstraße 118-124, 12105 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3619527,
+          52.4520484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901630 - Aldi Nord Werdau BEU DE021072 - Uferstraße 5a, 08412 Werdau-Sachsen OT Leubnitz, Germany",
+        "Adresse": "Uferstraße 5a, 08412 Werdau-Sachsen OT Leubnitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123729423.0,
+          507346167.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901210 - Aldi Nord Bad Salzungen WEI DE031060 - Clara-Zetkin-Straße 9, 36433 Bad Salzungen, Germany",
+        "Adresse": "Clara-Zetkin-Straße 9, 36433 Bad Salzungen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2220763,
+          50.8106487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900030 - ALdi Nord Borsdorf BEU DE021020 - Panitzscher Straße 27, 04451 Borsdorf, Germany",
+        "Adresse": "Panitzscher Straße 27, 04451 Borsdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125430972.0,
+          513522447.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901540 - Aldi Nord Chemnitz WIL DE036090 - Zschopauer Straße 244, 09126 Chemnitz, Germany",
+        "Adresse": "Zschopauer Straße 244, 09126 Chemnitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12956982.0,
+          508131622.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901100 - Aldi Nord Brandenburg Scholl GRO DE020062 - Geschwister-Scholl-Straße 30, 14776 Brandenburg, Germany",
+        "Adresse": "Geschwister-Scholl-Straße 30, 14776 Brandenburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5691064,
+          52.4030233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901270 - Aldi Nord Schöningen MEI NR DE026033 - Elmstraße 8a, 38364 Schöningen, Germany",
+        "Adresse": "Elmstraße 8a, 38364 Schöningen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9650846,
+          52.1420695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901490 - Aldi Nord Leipzig Holzhäuser NR BEU DE021059 - Holzhäuser Straße 108, 04229 Leipzig, Germany",
+        "Adresse": "Holzhäuser Straße 108, 04229 Leipzig, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124247323.0,
+          51319477.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900340 - Aldi Nord Forst WIL DE036115 (alt MIT DE028065) - Skurumer Straße 2a, 03149 Forst, Germany",
+        "Adresse": "Skurumer Straße 2a, 03149 Forst, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146303324.0,
+          517271721.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901090 - Aldi Nord Brandenburg Willi GRO NR DE020069 - Willi-Sänger-Straße 66, 14770 Brandenburg, Germany",
+        "Adresse": "Willi-Sänger-Straße 66, 14770 Brandenburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5448372,
+          52.4204878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98100 - Aldi Leipzig Schumann BEU NR DE021069 - Georg-Schumann Straße 363, 04159 Leipzig, Germany",
+        "Adresse": "Georg-Schumann Straße 363, 04159 Leipzig, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3210819,
+          51.3748936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98920 - Aldi Leisnig BEU DE021044 - Wilhelm-Ostwald-straße 8, 04703 Leisnig, Germany",
+        "Adresse": "Wilhelm-Ostwald-straße 8, 04703 Leisnig, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129159861.0,
+          511567188.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901680 - Aldi Nord Döbeln WIL DE036008 - Grimmaische straße 67, 04720 Döbeln, Germany",
+        "Adresse": "Grimmaische straße 67, 04720 Döbeln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13096368.0,
+          511333953.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901250 - Aldi Nord Eilsleben MEI DE026021 - Ovelgünner Straße 34, 39365 Eilsleben, Germany",
+        "Adresse": "Ovelgünner Straße 34, 39365 Eilsleben, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2265543,
+          52.1469424
+        ]
+      }
+    }
+  ]
+}
