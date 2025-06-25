@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104760 - SANHA; Dachsanierung Gebäude 80+92, Essen - Im Teelbruch 80, 45219 Essen, Germany",
+        "Adresse": "Im Teelbruch 80, 45219 Essen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9399601,
+          51.377635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104880 - ALDI BK 1; Neubau ALDI, Freyburg - Friedhofsweg 2, 06632 Freyburg, Germany",
+        "Adresse": "Friedhofsweg 2, 06632 Freyburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7725748,
+          51.2201294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104780 - Axalta Coating; Dachsanierung, Wuppertal - Märkische straße 243, 42281 Wuppertal, Germany",
+        "Adresse": "Märkische straße 243, 42281 Wuppertal, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2012582,
+          51.2916269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "105000 - SSB; Neubau ALDI, Langenbrück - Liegauer Straße 11, 01465 Dresden, Germany",
+        "Adresse": "Liegauer Straße 11, 01465 Dresden, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8456536,
+          51.1290542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104680 - Union Investment; Dachsanierung REWE, Schleiden - An der Olef 64, 53937 Schleiden, Germany",
+        "Adresse": "An der Olef 64, 53937 Schleiden, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64655743.0,
+          505198347.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104710 - ALDI Grundbesitz; Neubau ALDI, Eisenach - An der Karlskuppe 9;, 99817 Eisenach, Germany",
+        "Adresse": "An der Karlskuppe 9;, 99817 Eisenach, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2929698,
+          50.992573
+        ]
+      }
+    }
+  ]
+}
