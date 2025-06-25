@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104720 - Frank Eichstädt; Neubau Edeka, Bernsdorf - Am Ankerglasplatz, 02994 Bernsdorf, Germany",
+        "Adresse": "Am Ankerglasplatz, 02994 Bernsdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0695856,
+          51.3744186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500000 - Goldbeck; HH0620 Klassenzimmer 2.1, Hamburg - Stockflehtweg 160, 22417 Hamburg, Germany",
+        "Adresse": "Stockflehtweg 160, 22417 Hamburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0486,
+          53.6539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500050 - Bremer; Fremato - Wiesenredder 8, 24794 Borgstedt, Germany",
+        "Adresse": "Wiesenredder 8, 24794 Borgstedt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.693808,
+          54.332959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104790 - SSB; Neubau ALDI, Meißen - Fabrikstraße/Planstraße, 01662 Meißen, Germany",
+        "Adresse": "Fabrikstraße/Planstraße, 01662 Meißen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4859,
+          51.1649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500010 - Goldbeck, HH0627 Klassenhaus, Hamburg - Stengelstraße 38, 22111 Hamburg, Germany",
+        "Adresse": "Stengelstraße 38, 22111 Hamburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1031,
+          53.5401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104650 - Schulte; Neubau ALDI Märkische Allee 59, Berlin - Märkische Allee 59, 12681 Berlin, Germany",
+        "Adresse": "Märkische Allee 59, 12681 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5414669,
+          52.5210483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104250 - Hornbach AG; Dachsanierung, Berlin-Marzahn - Märkische Spitze 15, 12861 Berlin, Germany",
+        "Adresse": "Märkische Spitze 15, 12861 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5422733,
+          52.5183351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500040 - Köster; Böhlke Stendal, Arneburg - Havelberger Straße, 39596 Arneburg, Germany",
+        "Adresse": "Havelberger Straße, 39596 Arneburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0080034,
+          52.7217254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104590 - Schulte; Neubau ALDI, Petershagen - Karl-Marx-Straße 21-23, 15345 Eggersdorf, Germany",
+        "Adresse": "Karl-Marx-Straße 21-23, 15345 Eggersdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8176335,
+          52.5390501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104640 - Schulte; Umbau ALDI Oraniendamm, Berlin - Oraniendamm 46, 13469 Berlin, Germany",
+        "Adresse": "Oraniendamm 46, 13469 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3189326,
+          52.6105142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104980 - Deutsche Post AG; Dachertüchtigung ZB, Berlin - Neuköllnische Allee 14/24, 12057 Berlin, Germany",
+        "Adresse": "Neuköllnische Allee 14/24, 12057 Berlin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4735684,
+          52.4607727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500020 - Bremer; Ikego Kartoffellagerhalle - Elwerathstraße, 29386 Hankensbüttel, Germany",
+        "Adresse": "Elwerathstraße, 29386 Hankensbüttel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5880922,
+          52.7180477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104850 - Halsdorfer; Neubau ALDI, Bad Salzuflen - Herforder Straße 93+95, 32105 Bad Salzuflen, Germany",
+        "Adresse": "Herforder Straße 93+95, 32105 Bad Salzuflen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87505.0,
+          520808.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "500030 - WEG Loewner/Hessler; Neubau Mehrfamilienhaus, Wesendorf - Am Wolfsburger Platz 5 (Hammersteinpark), 29392 Wesendorf, Germany",
+        "Adresse": "Am Wolfsburger Platz 5 (Hammersteinpark), 29392 Wesendorf, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5093409,
+          52.5867181
+        ]
+      }
+    }
+  ]
+}
