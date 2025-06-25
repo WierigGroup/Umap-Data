@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401600 - Hornbach; Dachsanierung, Straubing - Aiterhofener Straße 220, 94315 Straubing, Germany",
+        "Adresse": "Aiterhofener Straße 220, 94315 Straubing, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126298321.0,
+          488710784.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401680 - Palmira; Dachertüchtigung EF Logistik, Winkelhaid - Schlagwiesen 1, 90610 Winkelhaid, Germany",
+        "Adresse": "Schlagwiesen 1, 90610 Winkelhaid, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113108432.0,
+          493884555.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103910 - HOERBIGER; Dachsanierung, Schongau - Martina-Hoerbiger straße 5, 86956 Schongau, Germany",
+        "Adresse": "Martina-Hoerbiger straße 5, 86956 Schongau, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8856131,
+          47.8049965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402050 - Bauhaus; Entfernung Dachbegrünung, Aalen - Margarethe-Streiff-Straße 20, 73457 Aalen-Essingen, Germany",
+        "Adresse": "Margarethe-Streiff-Straße 20, 73457 Aalen-Essingen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1002773.0,
+          4880859.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103310 - Schaeffler GmbH; Dachsanierung SW 44-4, Schweinfurt - Georg-Schäfer-straße 30, 97421 Schweinfurt, Germany",
+        "Adresse": "Georg-Schäfer-straße 30, 97421 Schweinfurt, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102166908.0,
+          500386978.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401870 - SPESA; Dachert. Dachrand und Rinne, Niederfüllbach - Carl-Brandt-straße 2, 96489 Niederfüllbach, Germany",
+        "Adresse": "Carl-Brandt-straße 2, 96489 Niederfüllbach, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10985759.0,
+          502220476.0
+        ]
+      }
+    }
+  ]
+}
