@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104070 - Kreiswerke Grevenbroich; Dachsanierung Wasserwerk, Dormagen - Zum Kreiswasserwerk 15, 41542 Dormagen, Germany",
+        "Adresse": "Zum Kreiswasserwerk 15, 41542 Dormagen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7602621,
+          51.1214868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104050 - Commerz Real; Sanierung Forum City, Mülheim - Hans-Böckler-Platz 1H, 45468 Mülheim an der Ruhr, Germany",
+        "Adresse": "Hans-Böckler-Platz 1H, 45468 Mülheim an der Ruhr, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68857504.0,
+          514290982.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104970 - Deutsche Post AG; Dachertüchtigung ZB, Siegburg - Lindenstraße 90, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 90, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1890237,
+          50.7986497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104480 - Rolf Mauss; Dachsanierung Halle 3+4, Köln - Otto-Hahn-straße 1-3, 50997 Köln, Germany",
+        "Adresse": "Otto-Hahn-straße 1-3, 50997 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9731646,
+          50.8578811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104580 - CBRE; Rep. Logistikzentrum, Trebur - Hessenauer Straße 2, 65468 Trebur-Astheim, Germany",
+        "Adresse": "Hessenauer Straße 2, 65468 Trebur-Astheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.38167,
+          49.93556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104390 - peko rebuilding; Neubau Hotel In2, Xanten - Am Rheintor, 46509 Xanten, Germany",
+        "Adresse": "Am Rheintor, 46509 Xanten, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4534337,
+          51.6665286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900000 - Kaufland; diverse Reparaturen - ., . ., Germany",
+        "Adresse": "., . ., Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4478313,
+          51.1638175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104380 - Deutsche Post; Dachertüchtigung Post Tower, Bonn - Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany",
+        "Adresse": "Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1302201,
+          50.7160711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104820 - Ele Bau GmbH; Dachertüchtigung, Hürth - Bonnstraße 270, 50354 Hürth, Germany",
+        "Adresse": "Bonnstraße 270, 50354 Hürth, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8755391,
+          50.8819302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104750 - Ikea; Dachsanierung Haus 3 (BA4), Erfurt - In der Langen Else 4, 99098 Erfurt, Germany",
+        "Adresse": "In der Langen Else 4, 99098 Erfurt, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1230547,
+          50.9829784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103810 - Dirk Rossmann; Dachsanierung BW 1.0, Burgwedel - Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "Adresse": "Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9832297.0,
+          524895553.0
+        ]
+      }
+    }
+  ]
+}
