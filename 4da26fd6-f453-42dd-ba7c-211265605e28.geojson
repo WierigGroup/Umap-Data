@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98090 - Aldi Arnstadt WEI NR DE031040 - Ichtershäuser Straße 47 - 49, 99310 Arnstadt, Germany",
+        "Adresse": "Ichtershäuser Straße 47 - 49, 99310 Arnstadt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9570935,
+          50.8473377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1700 - Wartung_Monitoring_Versicherung - Lindenstrasse 76, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstrasse 76, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71921061.0,
+          507975969.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98180 - Aldi Harsefeld SEE NR DE003019 - Paschberg 22, 21698 Harsefeld, Germany",
+        "Adresse": "Paschberg 22, 21698 Harsefeld, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95118401.0,
+          534545528.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97310 - Aldi Sögel LIN DE025028 - Knippers Kohlenhof 3, 49751 Sögel, Germany",
+        "Adresse": "Knippers Kohlenhof 3, 49751 Sögel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75219703.0,
+          528393789.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99640 - Aldi Nord Seelze SIE DE006154 (alt RIN DE018076) - Hannoversche Straße 77, 30926 Seelze, Germany",
+        "Adresse": "Hannoversche Straße 77, 30926 Seelze, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9610599.0,
+          523926492.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "98860 - Aldi Schleiz WEI DE031030 - Nikolaistraße 39, 07907 Schleiz, Germany",
+        "Adresse": "Nikolaistraße 39, 07907 Schleiz, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118046345.0,
+          50580315.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "97390 - Aldi Bergneustadt RAD NR DE002008 - Kölner straße 2-14, 51702 Bergneustadt, Germany",
+        "Adresse": "Kölner straße 2-14, 51702 Bergneustadt, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76401297.0,
+          510177035.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900370 - Aldi Nord Datteln DAT NR DE032035 - Castroper Straße 239, 45711 Datteln, Germany",
+        "Adresse": "Castroper Straße 239, 45711 Datteln, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73326503.0,
+          516354616.0
+        ]
+      }
+    }
+  ]
+}
