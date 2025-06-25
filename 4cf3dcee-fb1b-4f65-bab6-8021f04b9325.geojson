@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104700 - Projectinvest; Neubau ALDI Rübenstraße, Wuppertal - Rübenstraße 60, 42289 Wuppertal, Germany",
+        "Adresse": "Rübenstraße 60, 42289 Wuppertal, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2294798,
+          51.2692179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104990 - Deutsche Post AG; Dachertüchtigung ZB, Halle - Querfurter straße 20, 06132 Halle, Germany",
+        "Adresse": "Querfurter straße 20, 06132 Halle, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9666555,
+          51.437716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104730 - Lidl Dienstleistungs GmbH; Neubau, Mühltal - An der Flachsröße 2a, 64367 Mühltal, Germany",
+        "Adresse": "An der Flachsröße 2a, 64367 Mühltal, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903334,
+          49.8210206
+        ]
+      }
+    }
+  ]
+}
