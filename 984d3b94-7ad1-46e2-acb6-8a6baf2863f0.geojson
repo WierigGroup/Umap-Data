@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34220 - MFH Kaldauen; Fassadenarbeiten, Siegburg - Buchenweg, 53721 Siegburg, Germany",
+        "Adresse": "Buchenweg, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2598156,
+          50.8056142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34230 - Aldi Grundbesitz, Neubau Markt, Gnarrenburg - Hindenburgstraße 27, 27442 Gnarrenburg, Germany",
+        "Adresse": "Hindenburgstraße 27, 27442 Gnarrenburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.006953,
+          53.3757669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104435 - MH Grundbesitz GmbH; Neubau Gewerbehalle, Köln - André Citroen-Straße 4, 51149 Köln, Germany",
+        "Adresse": "André Citroen-Straße 4, 51149 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0204754,
+          50.9014827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34240 - Hugo; TRB Überdachung Rossmann, Burgwedel - Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "Adresse": "Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.832297,
+          52.4895553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34150 - Wierig Solar AG; Brandschaden ALDI, Werl - Runtestraße 11, 59457 Werl, Germany",
+        "Adresse": "Runtestraße 11, 59457 Werl, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8933359,
+          51.5637136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104425 - Ludwig Projekt GmbH; Neubau Halle, Niederkassel - Nibelungenstraße 10, 53859 Niederkassel, Germany",
+        "Adresse": "Nibelungenstraße 10, 53859 Niederkassel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0507639,
+          50.7987016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34210 - Huhn & Wierig GbR; Einbau Kühlgerät, Lindenstraße 76 - Lindenstraße 76, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 76, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1921061,
+          50.7975969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "39999 - Kleinaufträge Profiltechnik Siegburg - Lindenstraße 57, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 57, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1967076,
+          50.7965661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104735 - Lidl Dienstleistungs GmbH; Neubau, Mühltal - An der Flachsröße 2a, 64367 Mühltal, Germany",
+        "Adresse": "An der Flachsröße 2a, 64367 Mühltal, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6903334,
+          49.8210206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34190 - Wierig Solar; Steildachnachrüster Lidl, Remscheid - Neuenkamper straße 26, 42855 Remscheid, Germany",
+        "Adresse": "Neuenkamper straße 26, 42855 Remscheid, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2140247,
+          51.1768308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104965 - Schwarte Bau; Neubau Combi-Markt, Vechta - Oldenburgerstraße 28, 49377 Vechta, Germany",
+        "Adresse": "Oldenburgerstraße 28, 49377 Vechta, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2637333,
+          52.7767157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34180 - ALDI BK 1; Neubau Trapezprofile, Neustrelitz - Penzliner straße 47, 17235 Neustrelitz, Germany",
+        "Adresse": "Penzliner straße 47, 17235 Neustrelitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.052074,
+          53.3763735
+        ]
+      }
+    }
+  ]
+}
