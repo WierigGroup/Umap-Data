@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104320 - Overath; Dachertüchtigung Alte Lohmarer Str., Siegburg - Alte Lohmarer Straße, 53721 Siegburg, Germany",
+        "Adresse": "Alte Lohmarer Straße, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2105197,
+          50.8106796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104430 - MH Grundbesitz GmbH; Neubau Gewerbehalle, Köln - André Citroen-Straße 4, 51149 Köln, Germany",
+        "Adresse": "André Citroen-Straße 4, 51149 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0204754,
+          50.9014827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104160 - Knauber; Dachsanierung Halle 3+10, Bonn - Endenicher Str . 120-140, 53115 Bonn, Germany",
+        "Adresse": "Endenicher Str . 120-140, 53115 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0797469,
+          50.730914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104800 - Jamestown; Dachsanierung Schanzenstraße 28, Köln - Schanzenstraße 28, 51063 Köln, Germany",
+        "Adresse": "Schanzenstraße 28, 51063 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.011309,
+          50.9678074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103520 - Rewe Markt GmbH; Dachsanierung Frischelager 2. BA, Köln - Robert-Bosch-straße 40-42, 50769 Köln, Germany",
+        "Adresse": "Robert-Bosch-straße 40-42, 50769 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69158.0,
+          51038596.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "102450 - CE-Bau; Neubau ALDI, Lüdinghausen - Geschwister Scholl straße 26, 59348 Lüdinghausen, Germany",
+        "Adresse": "Geschwister Scholl straße 26, 59348 Lüdinghausen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74511777.0,
+          517726986.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104190 - GVK-Schwerte; Sanierung Stolberger Str. 92, Köln - Stolberger straße 92, 50933 Köln, Germany",
+        "Adresse": "Stolberger straße 92, 50933 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9024292,
+          50.9425958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104310 - Saabrücker Medienhaus; Dachsanierung, Saarbrücken - Untertürkheimer straße 15, 66117 Saarbrücken, Germany",
+        "Adresse": "Untertürkheimer straße 15, 66117 Saarbrücken, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.982097,
+          49.2116483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104810 - Jamestown; Dachsanierung Schanzenstraße 22, Köln - Schanzenstraße 22, 51063 Köln, Germany",
+        "Adresse": "Schanzenstraße 22, 51063 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0106573,
+          50.9672258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104360 - Knauber; Dachsanierung Halle 6, Bonn - Endenicher straße 120-140, 53115 Bonn, Germany",
+        "Adresse": "Endenicher straße 120-140, 53115 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0797469,
+          50.730914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104890 - Carl Knauber; Dachsanierung Halle 4, Bonn - Endenicher Straße 120-140, 53115 Bonn, Germany",
+        "Adresse": "Endenicher Straße 120-140, 53115 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0797469,
+          50.730914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104130 - Franz Gierlichs GmbH - Maurinusstraße 3 0, 51381 Leverkusen, Germany",
+        "Adresse": "Maurinusstraße 3 0, 51381 Leverkusen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02843,
+          51.0643554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104670 - Carl Knauber; Dachertüchtigung Halle 5, Bonn - Endenicher Straße 120-140, 53115 Bonn, Germany",
+        "Adresse": "Endenicher Straße 120-140, 53115 Bonn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0797469,
+          50.730914
+        ]
+      }
+    }
+  ]
+}
