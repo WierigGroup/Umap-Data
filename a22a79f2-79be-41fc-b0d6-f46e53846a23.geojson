@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "400541 - BV Pratteln Viessmann Schweiz - Ost 3 - Lagerstraße 12, 5606 Dintikon, Switzerland",
+        "Adresse": "Lagerstraße 12, 5606 Dintikon, Switzerland",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2313934,
+          47.3684238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40051 - Reifen Premio Köln Wahn - Albin-Köbis-Straße 13, 51147 Köln, Germany",
+        "Adresse": "Albin-Köbis-Straße 13, 51147 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0946961,
+          50.8603484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40053 - OKR Stuttgart - Gänsheidestraße 9, 70184 Stuttgart, Germany",
+        "Adresse": "Gänsheidestraße 9, 70184 Stuttgart, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1957233,
+          48.7765187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "49998 - Beratungen Reichmann - Lindenstraße 57, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 57, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1967076,
+          50.7965661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40054 - BV Pratteln Viessmann Schweiz - West 2, 3 - Lagerstrasse 12, 5606 Dintikon, Switzerland",
+        "Adresse": "Lagerstrasse 12, 5606 Dintikon, Switzerland",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2313934,
+          47.3684238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "40052 - BV Ostermundingen, Schweiz - Bahnhofstrasse 20, CH 3072 Ostermundingen, Switzerland",
+        "Adresse": "Bahnhofstrasse 20, CH 3072 Ostermundingen, Switzerland",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.01427,
+          47.00016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "400452 - BV Pratteln Viessmann Schweiz - Nord 1, 2 - Lagerstrasse 12, 5606 Dintikon, Switzerland",
+        "Adresse": "Lagerstrasse 12, 5606 Dintikon, Switzerland",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2313934,
+          47.3684238
+        ]
+      }
+    }
+  ]
+}
