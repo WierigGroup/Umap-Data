@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104370 - STOMA GmbH - Lindenstraße 121, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 121, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1882715,
+          50.8007807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104510 - Flughafen Köln/Bonn; Dachsanierung T1, Köln - Kennedystraße, 51147 Köln, Germany",
+        "Adresse": "Kennedystraße, 51147 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1092202,
+          50.8824155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104450 - Flughafen K/B; Garage Vorfeld inkl. Begrünung, Köln - Kennedystraße, 51147 Köln, Germany",
+        "Adresse": "Kennedystraße, 51147 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1092202,
+          50.8824155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104460 - P&G; Dacharbeiten, Euskirchen - Procter & Gamble straße 1-3, Tor 3, 53881 Euskirchen, Germany",
+        "Adresse": "Procter & Gamble straße 1-3, Tor 3, 53881 Euskirchen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8262549,
+          50.693259
+        ]
+      }
+    }
+  ]
+}
