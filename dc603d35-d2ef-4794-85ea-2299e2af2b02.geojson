@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104260 - Globus; Dachsanierung, Maintal - Industriestraße 6, 63477 Maintal-Dörnigheim, Germany",
+        "Adresse": "Industriestraße 6, 63477 Maintal-Dörnigheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8668521,
+          50.1304659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104620 - Harry Brot; Brücken Fußbodendämmung, Troisdorf - Bergische Allee 99, 53842 Troisdorf, Germany",
+        "Adresse": "Bergische Allee 99, 53842 Troisdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1189,
+          50.8189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103630 - DWS; Dachsanierung, Bad Vilbel - Dortelweiler Platz 2, 61118 Bad Vilbel, Germany",
+        "Adresse": "Dortelweiler Platz 2, 61118 Bad Vilbel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7441072,
+          50.2080948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104570 - Bauwens; Neubau Schulzentrum, Niederkassel - Kopernikusstraße 8, 53859 Niederkassel-Ranzel, Germany",
+        "Adresse": "Kopernikusstraße 8, 53859 Niederkassel-Ranzel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0253728,
+          50.83305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104530 - Harry Brot; Dachabdichtung Brücken, Troisdorf - Belgische Allee 99, 53842 Troisdorf, Germany",
+        "Adresse": "Belgische Allee 99, 53842 Troisdorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1205566,
+          50.8424322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104560 - Brico Delta; Dachertüchtigung WKM, Solingen - Lüneschloßstraße, 42657 Solingen, Germany",
+        "Adresse": "Lüneschloßstraße, 42657 Solingen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0835262,
+          51.1624205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104750 - Ikea; Dachsanierung Haus 3 (BA4), Erfurt - In der Langen Else 4, 99098 Erfurt, Germany",
+        "Adresse": "In der Langen Else 4, 99098 Erfurt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111230547.0,
+          509829784.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104470 - IKEA Verwaltungs-GmbH; Umbau Ikea, Frankfurt-Niedereschbach - Züricher Straße 7, 60437 Frankfurt am Main, Germany",
+        "Adresse": "Züricher Straße 7, 60437 Frankfurt am Main, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6566456,
+          50.1956745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104290 - GLOBUS Holding; Dachsanierung, Simmern - Argenthaler Straße, 55469 Simmern, Germany",
+        "Adresse": "Argenthaler Straße, 55469 Simmern, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5502014,
+          49.9778687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104350 - Hornbach; Dachertüchtigung, Frankfurt-Niedereschbach - Züricher straße 11, 60437 Frankfurt am Main, Germany",
+        "Adresse": "Züricher straße 11, 60437 Frankfurt am Main, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86547589.0,
+          501950357.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104200 - Patron REMCO S.à r.l; Dachsanierung Max - Max-Planck-Straße 35, 50858 Köln, Germany",
+        "Adresse": "Max-Planck-Straße 35, 50858 Köln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8463462,
+          50.9220426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104770 - apoBank; Dachsanierung Zentrale, Düsseldorf - Richard-Oskar-Mattern-Straße 6, 40547 Düsseldorf, Germany",
+        "Adresse": "Richard-Oskar-Mattern-Straße 6, 40547 Düsseldorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7364145,
+          51.2451755
+        ]
+      }
+    }
+  ]
+}
