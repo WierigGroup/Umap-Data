@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401840 - HDM; Ergänzung Dachfläche Halle 11, Wiesloch - Gutenbergring, 69168 Wiesloch, Germany",
+        "Adresse": "Gutenbergring, 69168 Wiesloch, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.658901,
+          49.2896418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401980 - Berlinovo; Dachsanierung FMZ, Pforzheim - Karlsruher Straße 75, 75179 Pforzheim, Germany",
+        "Adresse": "Karlsruher Straße 75, 75179 Pforzheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6577442,
+          48.9022008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401920 - Sagax; Dachert. Metro, Bruchsal - Im Wendelrot 11, 76646 Bruchsal, Germany",
+        "Adresse": "Im Wendelrot 11, 76646 Bruchsal, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5670783,
+          49.1385911
+        ]
+      }
+    }
+  ]
+}
