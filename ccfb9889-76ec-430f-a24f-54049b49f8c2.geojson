@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103510 - BBV; Dachsanierung BT D, Kerpen - Heisenbergstraße 26-40, 50169 Kerpen, Germany",
+        "Adresse": "Heisenbergstraße 26-40, 50169 Kerpen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7501831,
+          50.8704291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104240 - Deutsche Post AG; Dachsanierung ZSP, Düren - Malterserstraße 49, 52349 Düren, Germany",
+        "Adresse": "Malterserstraße 49, 52349 Düren, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4788,
+          50.8009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104410 - Distelmaier; Dachertüchtigung, Siegburg - Wilhelmstraße 60, 53721 Siegburg, Germany",
+        "Adresse": "Wilhelmstraße 60, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2026073,
+          50.794971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104420 - Ludwig Projekt GmbH; Neubau Halle, Niederkassel - Nibelungenstraße 10, 53859 Niederkassel, Germany",
+        "Adresse": "Nibelungenstraße 10, 53859 Niederkassel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0507639,
+          50.7987016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104440 - Sarstedt AG; Dachsanierung Halle V, Nümbrecht - Sarstedtstrasse 1, D-51588 Nümbrech, Germany",
+        "Adresse": "Sarstedtstrasse 1, D-51588 Nümbrech, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5,
+          51.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104030 - AquaFun; Dachsanierung, Soest - Ardeyweg 35, 59494 Soest, Germany",
+        "Adresse": "Ardeyweg 35, 59494 Soest, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0790912,
+          51.5697938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104920 - Dirk Rossmann GmbH; Dachsanierung SLK, Burgwedel - Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "Adresse": "Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.832297,
+          52.4895553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104930 - Dirk Rossmann; HRL Notentwässerung, Burgwedel - Insernhägener straße 16, 30938 Burgwedel, Germany",
+        "Adresse": "Insernhägener straße 16, 30938 Burgwedel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.86,
+          52.5027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103810 - Dirk Rossmann; Dachsanierung BW 1.0, Burgwedel - Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "Adresse": "Isernhägener Straße 16, 30938 Burgwedel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.832297,
+          52.4895553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103520 - Rewe Markt GmbH; Dachsanierung Frischelager 2. BA, Köln - Robert-Bosch-straße 40-42, 50769 Köln, Germany",
+        "Adresse": "Robert-Bosch-straße 40-42, 50769 Köln, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9158,
+          51.038596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "102450 - CE-Bau; Neubau ALDI, Lüdinghausen - Geschwister Scholl straße 26, 59348 Lüdinghausen, Germany",
+        "Adresse": "Geschwister Scholl straße 26, 59348 Lüdinghausen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4511777,
+          51.7726986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104050 - Commerz Real; Sanierung Forum City, Mülheim - Hans-Böckler-Platz 1H, 45468 Mülheim an der Ruhr, Germany",
+        "Adresse": "Hans-Böckler-Platz 1H, 45468 Mülheim an der Ruhr, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8857504,
+          51.4290982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "102710 - Geodis; Dachsanierung, Lüdinghausen - Julius-Maggi-Straße 6, 59348 Lüdinghausen, Germany",
+        "Adresse": "Julius-Maggi-Straße 6, 59348 Lüdinghausen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4242028,
+          51.7691877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104680 - Union Investment; Dachsanierung REWE, Schleiden - An der Olef 64, 53937 Schleiden, Germany",
+        "Adresse": "An der Olef 64, 53937 Schleiden, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4655743,
+          50.5198347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900510 - Aldi Nord Velbert RAD NR DE002032 - Heiligenhauser Straße 60, 42549 Velbert, Germany",
+        "Adresse": "Heiligenhauser Straße 60, 42549 Velbert, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0224332,
+          51.3328714
+        ]
+      }
+    }
+  ]
+}
