@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "102840 - Consent; Dachsanierung FMZ, Bautzen - Niederkainaer Straße 14, 02625 Bautzen, Germany",
+        "Adresse": "Niederkainaer Straße 14, 02625 Bautzen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4566198,
+          51.1887621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104910 - Rommel Bau; Neubau ALDI, Döbeln - Grimmaische Straße 67, 04720 Döbeln, Germany",
+        "Adresse": "Grimmaische Straße 67, 04720 Döbeln, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.096368,
+          51.1333953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103960 - REWE Log 63; Dachsanierung Fleischerei, Schönwalde-Glien - Alte Nauener Chaussee 2, 14621 Schönwalde, Germany",
+        "Adresse": "Alte Nauener Chaussee 2, 14621 Schönwalde, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000421,
+          52.647212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104270 - Hornbach; Dachsanierung, Görlitz - Robert-Bosch-straße 5-7, 02828 Görlitz, Germany",
+        "Adresse": "Robert-Bosch-straße 5-7, 02828 Görlitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9574062,
+          51.1907868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104740 - Hamborner; Dachsanierung, Freital - Wilsdruffer Straße 52, 01705 Freital, Germany",
+        "Adresse": "Wilsdruffer Straße 52, 01705 Freital, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6475967,
+          51.0145505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104630 - Schulte; Neubau ALDI, Cottbus - Stadtring 8, 03042 Cottbus, Germany",
+        "Adresse": "Stadtring 8, 03042 Cottbus, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3578664,
+          51.7652716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104690 - REWE Log 63; Dachsanierung Fleischerei BA 2,  Schönwalde-Glien - Alte Nauener Chaussee 2, 14621 Schönwalde, Germany",
+        "Adresse": "Alte Nauener Chaussee 2, 14621 Schönwalde, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000421,
+          52.647212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103920 - HTL; Neubau ALDI, Luckau - Lübbenener straße, 15926 Luckau, Germany",
+        "Adresse": "Lübbenener straße, 15926 Luckau, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6939,
+          51.7732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104860 - Oberlichtenauer; Neubau ALDI, Chemnitz - Bornaer straße 148, 09114 Chemnitz, Germany",
+        "Adresse": "Bornaer straße 148, 09114 Chemnitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9025109,
+          50.8639786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104900 - Eichstädt; Neubau ALDI Zschopauer Str., Chemnitz - Zschopauer Straße 244, 09126 Chemnitz, Germany",
+        "Adresse": "Zschopauer Straße 244, 09126 Chemnitz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.956982,
+          50.8131622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104520 - MG Holding; Hagelschlagertüchtigung Göttler, Leipzig - Am Kellerberg 16, 04349 Leipzig, Germany",
+        "Adresse": "Am Kellerberg 16, 04349 Leipzig, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4576398,
+          51.3948552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104500 - Funke; Neubau ALDI & REWE, Dresden-Klotzsche - Boltenhagener Straße, 01109 Dresden, Germany",
+        "Adresse": "Boltenhagener Straße, 01109 Dresden, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7722345,
+          51.1187744
+        ]
+      }
+    }
+  ]
+}
