@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900890 - Bauer Ringstraße - Ringstrasse, 53721 Siegburg, Germany",
+        "Adresse": "Ringstrasse, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72065916.0,
+          507988141.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "900900 - KBV Prasser Oliver, Sankt Augustin RS MZ - Ringstraße 9, 53757 Sankt Augustin, Germany",
+        "Adresse": "Ringstraße 9, 53757 Sankt Augustin, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72292766.0,
+          507841638.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "901340 - KBV Gheorghiu Düsseldorf - Gustav-Mahler-Straße 6, 40593 Düsseldorf, Germany",
+        "Adresse": "Gustav-Mahler-Straße 6, 40593 Düsseldorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8831651,
+          51.150841
+        ]
+      }
+    }
+  ]
+}
