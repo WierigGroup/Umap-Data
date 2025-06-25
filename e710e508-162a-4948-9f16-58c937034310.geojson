@@ -1,0 +1,689 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401820 - Roche, Stützeneinbau Kantine, Mannheim - Sandhofer Straße 116, 68305 Mannheim, Germany",
+        "Adresse": "Sandhofer Straße 116, 68305 Mannheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84735536.0,
+          495309625.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401880 - Industria; San. unteres Dach, Darmstadt - Borsigstraße 11, 64291 Darmstadt, Germany",
+        "Adresse": "Borsigstraße 11, 64291 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86387234.0,
+          499158314.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "400020 - Möbel Martin, Dachsanierung, Konz - Am Moselufer 7, 54329 Konz, Germany",
+        "Adresse": "Am Moselufer 7, 54329 Konz, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5816662,
+          49.7071706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103310 - Schaeffler GmbH; Dachsanierung SW 44-4, Schweinfurt - Georg-Schäfer-straße 30, 97421 Schweinfurt, Germany",
+        "Adresse": "Georg-Schäfer-straße 30, 97421 Schweinfurt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2166908,
+          50.0386978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103800 - Ten Brinke; Dachsanierung MFH, Gießen - Zu den Mühlen, 35390 Gießen, Germany",
+        "Adresse": "Zu den Mühlen, 35390 Gießen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6681198,
+          50.5885688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402030 - ALDI SÜD; Dachsanierung NewCoffee, Ketsch - Hockenheimer Straße 169, 68775 Ketsch, Germany",
+        "Adresse": "Hockenheimer Straße 169, 68775 Ketsch, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5288052,
+          49.3537614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "400890 - 400890 Alstria; Haus 3, Mannheim - Carl-Reis-Platz 2-4, 68165 Mannheim, Germany",
+        "Adresse": "Carl-Reis-Platz 2-4, 68165 Mannheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4818,
+          49.4772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401670 - Pneuhage, Dachsanierung, Halle - Döckritzer straße 3 c, 06116 Halle, Germany",
+        "Adresse": "Döckritzer straße 3 c, 06116 Halle, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9544636,
+          51.5242602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401910 - Daimler; Dacharbeiten Bau 18, Mannheim - Hanns Martin Schleyer straße 101, 68299 Mannheim, Germany",
+        "Adresse": "Hanns Martin Schleyer straße 101, 68299 Mannheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4787057,
+          49.5167091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402000 - Industria; Dachrand Wittichstraße, Darmstadt - Wittichstraße 6, 64295 Darmstadt, Germany",
+        "Adresse": "Wittichstraße 6, 64295 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86280786.0,
+          498639355.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401110 - Daimler; Umbauarbeiten Gebäude 7 und 9c, Wörth - Daimlerstraße 1, 76742 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76742 Wörth, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2852913,
+          49.0456441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401940 - Industria, Borsigstraße 9, Darmstadt - Bosrigstraße 9, 64291 Darmstadt, Germany",
+        "Adresse": "Bosrigstraße 9, 64291 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6573,
+          49.9111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401860 - Möbel Martin; Dachertüchtigung Verwaltung, Bexbach - Gewerbering 3, 66450 Bexbach, Germany",
+        "Adresse": "Gewerbering 3, 66450 Bexbach, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2728703,
+          49.3442096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401710 - D&S; Wohnbebauung GGH Hospital, Heidelberg - Freiburger Straße, 69126 Heidelberg, Germany",
+        "Adresse": "Freiburger Straße, 69126 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86777256.0,
+          493739048.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402020 - Onyx Germany Ltd; Dachsanierung, Neckarsulm - Industriestraße 5, 74172 Neckarsulm, Germany",
+        "Adresse": "Industriestraße 5, 74172 Neckarsulm, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.300959,
+          49.2128578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401360 - F&W; Neubau Leica, Mannheim - Am Friedensplatz 3, 68165 Mannheim, Germany",
+        "Adresse": "Am Friedensplatz 3, 68165 Mannheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4952552,
+          49.4780283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401870 - SPESA; Dachert. Dachrand und Rinne, Niederfüllbach - Carl-Brandt-straße 2, 96489 Niederfüllbach, Germany",
+        "Adresse": "Carl-Brandt-straße 2, 96489 Niederfüllbach, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.985759,
+          50.2220476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401950 - Kipp Massa, Dachsanierung Roller Markt, Offenbach - Strahlenbergstraße 81, 63067 Offenbach, Germany",
+        "Adresse": "Strahlenbergstraße 81, 63067 Offenbach, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87344.0,
+          501069.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401810 - Altenbach; BV Bond Campus, Heidelberg - Henkel-Teroson-Straße 10, 69123 Heidelberg, Germany",
+        "Adresse": "Henkel-Teroson-Straße 10, 69123 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86441251.0,
+          494099103.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401770 - Daimler Truck; Gebäude 5 und 9, Wörth - Daimlerstraße 1, 76742 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76742 Wörth, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2852913,
+          49.0456441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401650 - Freudenberg; Seailing Technologies, Weinheim - Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "Adresse": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6625086,
+          49.55473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401700 - Palmira; Halle 3 Farbtex, Herrenberg - Hewlett-Packard-Straße 3, 71083 Herrenberg, Germany",
+        "Adresse": "Hewlett-Packard-Straße 3, 71083 Herrenberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88896666.0,
+          485819282.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402010 - BettyBarclay; Sanierung Zentrallager 1 und 2, Nußloch - Heidelberger Straße 9-11, 69226 Nussloch, Germany",
+        "Adresse": "Heidelberger Straße 9-11, 69226 Nussloch, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.684993,
+          49.3298069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401990 - SRH; Dachsanierung Geb. 2.1, Heidelberg - Ludwig-Guttmann-Straße 2.1, 69123 Heidelberg, Germany",
+        "Adresse": "Ludwig-Guttmann-Straße 2.1, 69123 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6536843,
+          49.4140614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401210 - Mr. Wash; NB Waschhalle, Heidelberg - Haberstraße, 69126 Heidelberg, Germany",
+        "Adresse": "Haberstraße, 69126 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86771074.0,
+          493649233.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401790 - Daimler Truck; Austausch Gully Geb. 17, Wörth - Daimlerstraße 1, 76744 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76744 Wörth, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2852913,
+          49.0456441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401850 - EnBW; Instandhaltungsmaßnahmen, Philippsburg - Rheinschanzinsel, 76661 Philippsburg, Germany",
+        "Adresse": "Rheinschanzinsel, 76661 Philippsburg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4405,
+          49.2189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401830 - AbbVie; Dachsanierung LU01, Ludwigshafen - Knollstraße, 67061 Ludwigshafen, Germany",
+        "Adresse": "Knollstraße, 67061 Ludwigshafen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84418733.0,
+          494752322.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401600 - Hornbach; Dachsanierung, Straubing - Aiterhofener Straße 220, 94315 Straubing, Germany",
+        "Adresse": "Aiterhofener Straße 220, 94315 Straubing, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6298321,
+          48.8710784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401570 - Freudenberg; Dachsan. Kopfbau 197, Weinheim - Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "Adresse": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6625086,
+          49.55473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401090 - HDM; Sanierung Halle 6, Wiesloch - Gutenbergring Tor 2, 69168 Wiesloch, Germany",
+        "Adresse": "Gutenbergring Tor 2, 69168 Wiesloch, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6964,
+          49.2946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401960 - Daimler; Überarbeitung Stöße, Bau 20, Wörth - Daimlerstraße 1, 76742 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76742 Wörth, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2852913,
+          49.0456441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401730 - Altenbach; Neubau PDI, Hockenheim - Am Motodrom, 68766 Hockenheim, Germany",
+        "Adresse": "Am Motodrom, 68766 Hockenheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5653098,
+          49.326734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401680 - Palmira; Dachertüchtigung EF Logistik, Winkelhaid - Schlagwiesen 1, 90610 Winkelhaid, Germany",
+        "Adresse": "Schlagwiesen 1, 90610 Winkelhaid, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3108432,
+          49.3884555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401750 - Palmira; Brandabschnitte, Bremen - Weser-Ems-Straße 2, 28309 Bremen, Germany",
+        "Adresse": "Weser-Ems-Straße 2, 28309 Bremen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8832247,
+          53.0399893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401930 - Freudenberg; Dachsanierung Bau 74, Weinheim - Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "Adresse": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6625086,
+          49.55473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402050 - Bauhaus; Entfernung Dachbegrünung, Aalen - Margarethe-Streiff-Straße 20, 73457 Aalen-Essingen, Germany",
+        "Adresse": "Margarethe-Streiff-Straße 20, 73457 Aalen-Essingen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.02773,
+          48.80859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401970 - Hornbach; Dachsanierung Hochregallager, Bad Bergzabern - Kurfürstenstraße 9, 76887 Bad Bergzabern, Germany",
+        "Adresse": "Kurfürstenstraße 9, 76887 Bad Bergzabern, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80100855.0,
+          491082737.0
+        ]
+      }
+    }
+  ]
+}
