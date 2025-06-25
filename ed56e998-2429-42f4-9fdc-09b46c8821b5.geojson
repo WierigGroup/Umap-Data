@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103500 - ALDI Grundstücksges. BK 2; Neubau ALDI, Hamburg - Poppenbüttler Hauptstraße 1b, 22399 Hamburg, Germany",
+        "Adresse": "Poppenbüttler Hauptstraße 1b, 22399 Hamburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0854018,
+          53.659738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103660 - ALDI G-BK1; Neubau ALDI, Lemförde - Burgstraße 18 b, 49448 Lemförde, Germany",
+        "Adresse": "Burgstraße 18 b, 49448 Lemförde, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83728689.0,
+          524704559.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402000 - Industria; Dachrand Wittichstraße, Darmstadt - Wittichstraße 6, 64295 Darmstadt, Germany",
+        "Adresse": "Wittichstraße 6, 64295 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86280786.0,
+          498639355.0
+        ]
+      }
+    }
+  ]
+}
