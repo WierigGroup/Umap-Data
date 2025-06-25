@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "9930 - Wierig & Huhn Neustadt Fliederweg - Fliederweg, 97616 Bad Neustadt a. d. Saale, Germany",
+        "Adresse": "Fliederweg, 97616 Bad Neustadt a. d. Saale, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1952759,
+          50.3267394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104320 - Overath; Dachertüchtigung Alte Lohmarer Str., Siegburg - Alte Lohmarer Straße, 53721 Siegburg, Germany",
+        "Adresse": "Alte Lohmarer Straße, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72105197.0,
+          508106796.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34220 - MFH Kaldauen; Fassadenarbeiten, Siegburg - Buchenweg, 53721 Siegburg, Germany",
+        "Adresse": "Buchenweg, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72598156.0,
+          508056142.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34150 - Wierig Solar AG; Brandschaden ALDI, Werl - Runtestraße 11, 59457 Werl, Germany",
+        "Adresse": "Runtestraße 11, 59457 Werl, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78933359.0,
+          515637136.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "34210 - Huhn & Wierig GbR; Einbau Kühlgerät, Lindenstraße 76 - Lindenstraße 76, 53721 Siegburg, Germany",
+        "Adresse": "Lindenstraße 76, 53721 Siegburg, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71921061.0,
+          507975969.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "99280 - Dico; Dachabdichtung - Hammer Landstraße 1, 59457 Werl, Germany",
+        "Adresse": "Hammer Landstraße 1, 59457 Werl, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78901008.0,
+          515660082.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103400 - Schäfer; Reparturarbeiten, Katzwinkel - Alte Poststraße 60, 57581 Katzwinkel, Germany",
+        "Adresse": "Alte Poststraße 60, 57581 Katzwinkel, Germany",
+        "_umap_options": {
+          "color": "gray",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8074422,
+          50.8086446
+        ]
+      }
+    }
+  ]
+}
