@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401770 - Daimler Truck; Gebäude 5 und 9, Wörth - Daimlerstraße 1, 76742 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76742 Wörth, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82852913.0,
+          490456441.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401650 - Freudenberg; Seailing Technologies, Weinheim - Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "Adresse": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86625086.0,
+          4955473.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402010 - BettyBarclay; Sanierung Zentrallager 1 und 2, Nußloch - Heidelberger Straße 9-11, 69226 Nussloch, Germany",
+        "Adresse": "Heidelberger Straße 9-11, 69226 Nussloch, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8684993.0,
+          493298069.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401990 - SRH; Dachsanierung Geb. 2.1, Heidelberg - Ludwig-Guttmann-Straße 2.1, 69123 Heidelberg, Germany",
+        "Adresse": "Ludwig-Guttmann-Straße 2.1, 69123 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86536843.0,
+          494140614.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401790 - Daimler Truck; Austausch Gully Geb. 17, Wörth - Daimlerstraße 1, 76744 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76744 Wörth, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82852913.0,
+          490456441.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401850 - EnBW; Instandhaltungsmaßnahmen, Philippsburg - Rheinschanzinsel, 76661 Philippsburg, Germany",
+        "Adresse": "Rheinschanzinsel, 76661 Philippsburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84405.0,
+          492189.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103610 - ELP; Dachsanierung Ladebrücken DPD, Heilbronn - Pfaffenstraße 31, 74078 Heilbronn, Germany",
+        "Adresse": "Pfaffenstraße 31, 74078 Heilbronn, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17335,
+          49.1817583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401570 - Freudenberg; Dachsan. Kopfbau 197, Weinheim - Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "Adresse": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86625086.0,
+          4955473.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401960 - Daimler; Überarbeitung Stöße, Bau 20, Wörth - Daimlerstraße 1, 76742 Wörth, Germany",
+        "Adresse": "Daimlerstraße 1, 76742 Wörth, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82852913.0,
+          490456441.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401730 - Altenbach; Neubau PDI, Hockenheim - Am Motodrom, 68766 Hockenheim, Germany",
+        "Adresse": "Am Motodrom, 68766 Hockenheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85653098.0,
+          49326734.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401930 - Freudenberg; Dachsanierung Bau 74, Weinheim - Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "Adresse": "Höhnerweg 2-4, 69469 Weinheim, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86625086.0,
+          4955473.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401760 - Hornbach; Neubau BAL, Ludwigsburg - Liebigstraße 8, 71636 Ludwigsburg, Germany",
+        "Adresse": "Liebigstraße 8, 71636 Ludwigsburg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91523166.0,
+          488896092.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "402060 - Deutsche Post AG; Dachsanierung ZSP, VS - Spittelbronner Weg 89, 78056 Villingen Schwenningen, Germany",
+        "Adresse": "Spittelbronner Weg 89, 78056 Villingen Schwenningen, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85721797.0,
+          480688935.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401540 - CEFI II Retail; Dachsanierung FMZ, Augsburg - Brahmsstraße 2, 86179 Augsburg, Germany",
+        "Adresse": "Brahmsstraße 2, 86179 Augsburg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10899104.0,
+          48296976.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401910 - Daimler; Dacharbeiten Bau 18, Mannheim - Hanns Martin Schleyer straße 101, 68299 Mannheim, Germany",
+        "Adresse": "Hanns Martin Schleyer straße 101, 68299 Mannheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84787057.0,
+          495167091.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401560 - Mr. Wash; Dachbegrünung, Heidelberg - Haberstraße 2, 69126 Heidelberg, Germany",
+        "Adresse": "Haberstraße 2, 69126 Heidelberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86771074.0,
+          493649233.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401900 - GBS; Steigleiter, Pforzheim - Haidachstraße 4-6, 75181 Pforzheim, Germany",
+        "Adresse": "Haidachstraße 4-6, 75181 Pforzheim, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87383695.0,
+          488800459.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401940 - Industria, Borsigstraße 9, Darmstadt - Bosrigstraße 9, 64291 Darmstadt, Germany",
+        "Adresse": "Bosrigstraße 9, 64291 Darmstadt, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86573.0,
+          499111.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401860 - Möbel Martin; Dachertüchtigung Verwaltung, Bexbach - Gewerbering 3, 66450 Bexbach, Germany",
+        "Adresse": "Gewerbering 3, 66450 Bexbach, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72728703.0,
+          493442096.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "401890 - Palmira, Austausch Lichtkuppeln H1 und H2, Herrenberg - Hewlett-Packard -Straße 5, 71083 Herrenberg, Germany",
+        "Adresse": "Hewlett-Packard -Straße 5, 71083 Herrenberg, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88863576.0,
+          485801683.0
+        ]
+      }
+    }
+  ]
+}
