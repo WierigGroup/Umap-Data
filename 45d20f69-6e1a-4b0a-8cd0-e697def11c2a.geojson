@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104600 - Schulte; Neubau ALDI, Münster - Albersloher Weg 539, 48167 Münster, Germany",
+        "Adresse": "Albersloher Weg 539, 48167 Münster, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6724032,
+          51.9247112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104550 - ALD GK-BK 1; Neubau ALDI, Jesteburg - Am Allerbeek 2, 21266 Jesteburg, Germany",
+        "Adresse": "Am Allerbeek 2, 21266 Jesteburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9448079,
+          53.3066983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104850 - Halsdorfer; Neubau ALDI, Bad Salzuflen - Herforder Straße 93+95, 32105 Bad Salzuflen, Germany",
+        "Adresse": "Herforder Straße 93+95, 32105 Bad Salzuflen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7505,
+          52.0808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104610 - ALDI Grundbesitz; Neubau ALDI, Gnarrenburg - Hindenburgstraße 27, 27442 Gnarrenburg, Germany",
+        "Adresse": "Hindenburgstraße 27, 27442 Gnarrenburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.006953,
+          53.3757669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104660 - Schulte; Neubau ALDI, Fockbeck - Hohner Straße, 24787 Fockbek, Germany",
+        "Adresse": "Hohner Straße, 24787 Fockbek, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5889813,
+          54.3045813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104540 - RuP; Neubau ALDI, Neu-Wulmstorf - Hauptstraße 45-51, 21629 Wulmstorf, Germany",
+        "Adresse": "Hauptstraße 45-51, 21629 Wulmstorf, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7978456,
+          53.4629761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104940 - R&P; Neubau ALDI Clausewitzstr. 3, Oldenburg - Clausewitzstraße 3, 26125 Oldenburg, Germany",
+        "Adresse": "Clausewitzstraße 3, 26125 Oldenburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2450111,
+          53.1629125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104950 - R&P; Neubau ALDI, Wardenburg - Rheinstrasse 6, 26203 Wardenburg, Germany",
+        "Adresse": "Rheinstrasse 6, 26203 Wardenburg, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2004847,
+          53.0525466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104870 - ALDI Grundbesitz; Neubau, Minden - Königstraße 172, 32427 Minden, Germany",
+        "Adresse": "Königstraße 172, 32427 Minden, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8835,
+          52.291804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104330 - Schulte; Neubau ALDI, Marienhafe - Mühlenloog 1, 26529 Marienhafe, Germany",
+        "Adresse": "Mühlenloog 1, 26529 Marienhafe, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2769373,
+          53.5198889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104960 - Schwarte Bau; Neubau Combi-Markt, Vechta - Oldenburgerstraße 28, 49377 Vechta, Germany",
+        "Adresse": "Oldenburgerstraße 28, 49377 Vechta, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2637333,
+          52.7767157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103930 - ALDI BK 1; Neubau ALDI, Börnsen - Zwischen den Kreiseln, 21039 Börnsen, Germany",
+        "Adresse": "Zwischen den Kreiseln, 21039 Börnsen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2875068,
+          53.4854248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104170 - RuP; Dachsanierung Mahr, Göttingen - Carl-Mahr-Straße 1, 370079 Göttingen, Germany",
+        "Adresse": "Carl-Mahr-Straße 1, 370079 Göttingen, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9260248,
+          51.5247237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "103660 - ALDI G-BK1; Neubau ALDI, Lemförde - Burgstraße 18 b, 49448 Lemförde, Germany",
+        "Adresse": "Burgstraße 18 b, 49448 Lemförde, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3728689,
+          52.4704559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104490 - Stahlbaustraße 8; Dachertüchtigung, Castrop-Rauxel - Stahlbaustraße 8, 44577 Castrop-Rauxel, Germany",
+        "Adresse": "Stahlbaustraße 8, 44577 Castrop-Rauxel, Germany",
+        "_umap_options": {
+          "color": "blue",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3305534,
+          51.5295705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "104350 - Hornbach; Dachertüchtigung, Frankfurt-Niedereschbach - Züricher straße 11, 60437 Frankfurt am Main, Germany",
+        "Adresse": "Züricher straße 11, 60437 Frankfurt am Main, Germany",
+        "_umap_options": {
+          "color": "red",
+          "iconClass": "Ball"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6547589,
+          50.1950357
+        ]
+      }
+    }
+  ]
+}
